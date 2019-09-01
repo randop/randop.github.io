@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://randolphledesma.com/sitemap.xml
+Host: https://randolphledesma.com
