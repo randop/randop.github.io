@@ -1,18 +1,18 @@
----
-layout: post
-title:  "Add SSL functionality without any changes on application code"
-date:   2018-10-22 10:00:00 +0800
-categories: cybersecurity stunnel cloud
----
-The [Stunnel](https://www.stunnel.org/) program is designed to work as an SSL encryption wrapper between remote client and local (inetd-startable) or remote server. It can be used to add SSL functionality to commonly used inetd daemons like POP2, POP3, and IMAP servers without any changes in the program’s code.
 
-What [Stunnel](https://www.stunnel.org/) basically does is that it turns any insecure TCP port into a secure encrypted port using OpenSSL package for cryptography. It’s somehow like a small secure VPN that runs on specific ports.
-
-More information on setting up Stunnel can be found here [https://www.digitalocean.com/community/tutorials/how-to-set-up-an-ssl-tunnel-using-stunnel-on-ubuntu](https://www.digitalocean.com/community/tutorials/how-to-set-up-an-ssl-tunnel-using-stunnel-on-ubuntu)
-
-An example configuration for stunnel.conf 
-```
-; Sample stunnel configuration file for Unix by Michal Trojnara 2002-2014
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Add SSL functionality without any changes on application code</title>
+  </head>
+  <body>
+    <h1>Add SSL functionality without any changes on application code</h1>
+    <p>The <a href="https://www.stunnel.org/">Stunnel</a> program is designed to work as an SSL encryption wrapper between remote client and local (inetd-startable) or remote server. It can be used to add SSL functionality to commonly used inetd daemons like POP2, POP3, and IMAP servers without any changes in the program’s code.</p>
+<p>What <a href="https://www.stunnel.org/">Stunnel</a> basically does is that it turns any insecure TCP port into a secure encrypted port using OpenSSL package for cryptography. It’s somehow like a small secure VPN that runs on specific ports.</p>
+<p>More information on setting up Stunnel can be found here <a href="https://www.digitalocean.com/community/tutorials/how-to-set-up-an-ssl-tunnel-using-stunnel-on-ubuntu">https://www.digitalocean.com/community/tutorials/how-to-set-up-an-ssl-tunnel-using-stunnel-on-ubuntu</a></p>
+<p>An example configuration for stunnel.conf</p>
+<pre><code>; Sample stunnel configuration file for Unix by Michal Trojnara 2002-2014
 ; Some options used here may be inadequate for your particular configuration
 ; This sample file does *not* represent stunnel.conf defaults
 ; Please consult the manual for detailed description of available options
@@ -55,4 +55,7 @@ connect = 5062
 TIMEOUTclose = 0
 
 ; vim:ft=dosini
-```
+</code></pre>
+
+  </body>
+</html>
