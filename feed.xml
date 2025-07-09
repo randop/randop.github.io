@@ -10,265 +10,52 @@
     <name>Randolph Ledesma</name>
   </author>
   <entry>
-    <title>Quick PHP Debugging</title>
-    <link href="https://randop.github.io/2018/01/18/quick-php-debugging/" />
-    <updated>2018-01-18T02:00:00Z</updated>
-    <id>https://randop.github.io/2018/01/18/quick-php-debugging/</id>
-    <content type="html">&lt;p&gt;Put this on top of your script and easily see the errors and warnings.&lt;/p&gt;
-&lt;pre&gt;&lt;code class=&quot;language-php&quot;&gt;&amp;lt;?php
-error_reporting(E_ALL ^ E_DEPRECATED);
-ini_set(&#39;error_reporting&#39;, E_ALL ^ E_DEPRECATED);
-ini_set(&#39;display_startup_errors&#39;, 1);
-ini_set(&#39;display_errors&#39;, 1);
-&lt;/code&gt;&lt;/pre&gt;
+    <title>Writing blog with 11ty</title>
+    <link href="https://randop.github.io/2025/07/09/writing-blog-with-11ty/" />
+    <updated>2025-07-09T10:36:00Z</updated>
+    <id>https://randop.github.io/2025/07/09/writing-blog-with-11ty/</id>
+    <content type="html">&lt;p&gt;&lt;a href=&quot;https://github.com/11ty/eleventy&quot;&gt;Eleventy (11ty)&lt;/a&gt; is a simpler static site generator.
+The old blog site is using Jekyll and I have now migrated to 11ty.&lt;/p&gt;
+&lt;p&gt;See the source code at &lt;a href=&quot;https://github.com/randop/ledesma/tree/master/randop.github.io&quot;&gt;https://github.com/randop/ledesma/tree/master/randop.github.io&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;It is easier and very familiar to work with, thanks to javascript.&lt;/p&gt;
+&lt;p&gt;Be back for content as I import more of my archives.&lt;/p&gt;
 </content>
   </entry>
   <entry>
-    <title>PHP Console Template</title>
-    <link href="https://randop.github.io/2018/05/24/php-console-template/" />
-    <updated>2018-05-24T02:00:00Z</updated>
-    <id>https://randop.github.io/2018/05/24/php-console-template/</id>
-    <content type="html">&lt;p&gt;A template to use when making a script that runs in command-line.&lt;/p&gt;
-&lt;pre&gt;&lt;code class=&quot;language-php&quot;&gt;&amp;lt;?php
-ini_set(&#39;memory_limit&#39;, &#39;256M&#39;);
-function stdoutlog($msg)
-{
-    fwrite(STDOUT, date(&#39;Y-m-d G:i:s&#39;) . &#39; &#39;);
-    fwrite(STDOUT, $msg);
-    fwrite(STDOUT, PHP_EOL);
-}
-function log_error( $num, $str, $file, $line, $context = null )
-{
-    log_exception( new ErrorException( $str, 0, $num, $file, $line ) );
-}
-function log_exception( Exception $e )
-{
-    $err = &amp;quot;Type: &amp;quot; . get_class( $e ) . &amp;quot;; Message: {$e-&amp;gt;getMessage()}; File: {$e-&amp;gt;getFile()}; Line: {$e-&amp;gt;getLine()};&amp;quot;;
-    stdoutlog($err);
-}
-function check_for_fatal()
-{
-    $error = error_get_last();
-    if ( $error[&amp;quot;type&amp;quot;] == E_ERROR ) {
-        log_error( $error[&amp;quot;type&amp;quot;], $error[&amp;quot;message&amp;quot;], $error[&amp;quot;file&amp;quot;], $error[&amp;quot;line&amp;quot;] );
-    }
-}
-register_shutdown_function( &amp;quot;check_for_fatal&amp;quot; );
-set_error_handler( &amp;quot;log_error&amp;quot; );
-set_exception_handler( &amp;quot;log_exception&amp;quot; );
-error_reporting(E_ALL &amp;amp; ~(E_STRICT|E_NOTICE|E_DEPRECATED|E_USER_DEPRECATED));
-ini_set(&#39;error_reporting&#39;, E_ALL &amp;amp; ~(E_STRICT|E_NOTICE|E_DEPRECATED|E_USER_DEPRECATED));
-chdir( realpath( __DIR__) );
+    <title>Github Jenkins</title>
+    <link href="https://randop.github.io/2025/06/23/github-jenkins/" />
+    <updated>2025-06-23T11:42:44Z</updated>
+    <id>https://randop.github.io/2025/06/23/github-jenkins/</id>
+    <content type="html">&lt;p&gt;Over the past few months, I’ve been exploring an alternative to &lt;a href=&quot;https://www.jenkins.io/&quot;&gt;Jenkins&lt;/a&gt;: &lt;a href=&quot;https://github.com/features/actions&quot;&gt;Github Actions&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;It enables CI/CD workflow automation that integrates directly with any GitHub repository.
+As of now, it offers 2,000 CI/CD minutes per month for &lt;em&gt;free&lt;/em&gt; on public repositories.&lt;/p&gt;
+&lt;h3&gt;Here is how it works in practice:&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;Create a new file named &lt;code&gt;.github/workflows/action.yml&lt;/code&gt; in your project.&lt;/li&gt;
+&lt;li&gt;Add the following basic action to check out the repository:&lt;/li&gt;
+&lt;/ol&gt;
+&lt;pre&gt;&lt;code class=&quot;language-yaml&quot;&gt;name: My Action Test
+on:
+  push:
+    branches: [&amp;quot;master&amp;quot;]
+  pull_request:
+    branches: [&amp;quot;master&amp;quot;]
+  workflow_dispatch: # Allow manual triggering
+jobs:
+  checkout:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
 &lt;/code&gt;&lt;/pre&gt;
-</content>
-  </entry>
-  <entry>
-    <title>Find function declaration in PHP</title>
-    <link href="https://randop.github.io/2018/08/31/find-function-declaration-in-php/" />
-    <updated>2018-08-31T02:00:00Z</updated>
-    <id>https://randop.github.io/2018/08/31/find-function-declaration-in-php/</id>
-    <content type="html">&lt;p&gt;This is a simple way to find where the function is defined on your script&lt;/p&gt;
-&lt;pre&gt;&lt;code class=&quot;language-php&quot;&gt;&amp;lt;?php
-$reflFunc = new ReflectionFunction(&#39;function_name&#39;);
-print $reflFunc-&amp;gt;getFileName() . &#39;:&#39; . $reflFunc-&amp;gt;getStartLine();
-&lt;/code&gt;&lt;/pre&gt;
-</content>
-  </entry>
-  <entry>
-    <title>Useful array map</title>
-    <link href="https://randop.github.io/2018/09/13/useful-array-map/" />
-    <updated>2018-09-13T02:00:00Z</updated>
-    <id>https://randop.github.io/2018/09/13/useful-array-map/</id>
-    <content type="html">&lt;p&gt;Here is an example of array_map function to produce a string by appending each content of a flat array.&lt;/p&gt;
-&lt;pre&gt;&lt;code class=&quot;language-php&quot;&gt;&amp;lt;?php
-$the_ids = [1,2,3,4];
-echo implode(&#39; OR &#39;, array_map( function($id){ return &#39;id=&#39; . $id; }, $the_ids ) );
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;Produces the following output:
-id=1 OR id=2 OR id=3 OR id=4&lt;/p&gt;
-&lt;p&gt;This can be useful when trying to pass a where condition on a sql.&lt;/p&gt;
-</content>
-  </entry>
-  <entry>
-    <title>Add SSL functionality without any changes on application code</title>
-    <link href="https://randop.github.io/2018/10/22/add-ssl-functionality-without-any-changes-on-application-code/" />
-    <updated>2018-10-22T02:00:00Z</updated>
-    <id>https://randop.github.io/2018/10/22/add-ssl-functionality-without-any-changes-on-application-code/</id>
-    <content type="html">&lt;p&gt;The &lt;a href=&quot;https://www.stunnel.org/&quot;&gt;Stunnel&lt;/a&gt; program is designed to work as an SSL encryption wrapper between remote client and local (inetd-startable) or remote server. It can be used to add SSL functionality to commonly used inetd daemons like POP2, POP3, and IMAP servers without any changes in the program’s code.&lt;/p&gt;
-&lt;p&gt;What &lt;a href=&quot;https://www.stunnel.org/&quot;&gt;Stunnel&lt;/a&gt; basically does is that it turns any insecure TCP port into a secure encrypted port using OpenSSL package for cryptography. It’s somehow like a small secure VPN that runs on specific ports.&lt;/p&gt;
-&lt;p&gt;More information on setting up Stunnel can be found here &lt;a href=&quot;https://www.digitalocean.com/community/tutorials/how-to-set-up-an-ssl-tunnel-using-stunnel-on-ubuntu&quot;&gt;https://www.digitalocean.com/community/tutorials/how-to-set-up-an-ssl-tunnel-using-stunnel-on-ubuntu&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;An example configuration for stunnel.conf&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;; Sample stunnel configuration file for Unix by Michal Trojnara 2002-2014
-; Some options used here may be inadequate for your particular configuration
-; This sample file does *not* represent stunnel.conf defaults
-; Please consult the manual for detailed description of available options
-
-; **************************************************************************
-; * Global options                                                         *
-; **************************************************************************
-
-; A copy of some devices and system files is needed within the chroot jail
-; Chroot conflicts with configuration file reload and many other features
-; Remember also to update the logrotate configuration.
-;chroot = /var/lib/stunnel4/
-; Chroot jail can be escaped if setuid option is not used
-;setuid = stunnel4
-;setgid = stunnel4
-
-; PID file is created inside the chroot jail (if enabled)
-pid = /var/run/stunnel4.pid
-
-; Debugging stuff (may be useful for troubleshooting)
-;debug = 7
-;output = /var/log/stunnel4/stunnel.log
-
-; **************************************************************************
-; * Service defaults may also be specified in individual service sections  *
-; **************************************************************************
-
-; Certificate/key is needed in server mode and optional in client mode
-cert = /etc/stunnel/stunnel.pem
-;key = /etc/stunnel/mail.pem
-
-[ot1]
-accept = 5061
-connect = 5062
-TIMEOUTclose = 0
-
-[ot2]
-accept = 444
-connect = 5062
-TIMEOUTclose = 0
-
-; vim:ft=dosini
-&lt;/code&gt;&lt;/pre&gt;
-</content>
-  </entry>
-  <entry>
-    <title>PHP Debugging Utility using Monolog</title>
-    <link href="https://randop.github.io/2018/12/19/php-debugging-utility-using-monolog/" />
-    <updated>2018-12-19T02:00:00Z</updated>
-    <id>https://randop.github.io/2018/12/19/php-debugging-utility-using-monolog/</id>
-    <content type="html">&lt;p&gt;Have created a debug helper script which is very useful for tracing issues in PHP.&lt;/p&gt;
-&lt;h4&gt;Requirements:&lt;/h4&gt;
-&lt;ul&gt;
-&lt;li&gt;Composer&lt;/li&gt;
-&lt;li&gt;Monolog&lt;/li&gt;
-&lt;li&gt;localheinz/json-printer&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h4&gt;Installation:&lt;/h4&gt;
-&lt;pre&gt;&lt;code&gt;composer require monolog/monolog localheinz/json-printer
-&lt;/code&gt;&lt;/pre&gt;
-&lt;h4&gt;Script&lt;/h4&gt;
-&lt;pre&gt;&lt;code class=&quot;language-php&quot;&gt;&amp;lt;?php
-use Monolog&#92;Logger;
-use Monolog&#92;ErrorHandler;
-use Monolog&#92;Formatter&#92;CustomLineFormatter;
-use Monolog&#92;Handler&#92;StreamHandler;
-use Monolog&#92;Processor&#92;IntrospectionProcessor;
-use Localheinz&#92;Json&#92;Printer&#92;Printer;
-//set this to desired log directory
-$logdir = &amp;quot;&amp;quot;;
-$traceprinter = new Printer();
-$traceformatter = new Monolog&#92;Formatter&#92;CustomLineFormatter(
-    null,
-    null,
-    true,
-    true
-);
-// create a log channel
-$monolog = new Logger(&#39;randolph&#39;);
-ErrorHandler::register($monolog);
-$monolog-&amp;gt;pushProcessor(new IntrospectionProcessor());
-$debugstream = new StreamHandler($logdir. &#39;/debug.log&#39;, Logger::DEBUG);
-$debugstream-&amp;gt;setFormatter($traceformatter);
-$monolog-&amp;gt;pushHandler($debugstream);
-// create a trace log channel
-$tracelog = new Logger(&#39;randolph&#39;);
-//$tracelog-&amp;gt;pushProcessor(new IntrospectionProcessor());
-$tracestream = new StreamHandler($logdir . &#39;/trace.log&#39;, Logger::DEBUG);
-$tracestream-&amp;gt;setFormatter($traceformatter);
-$tracelog-&amp;gt;pushHandler($tracestream);
-function dtrace($msg=&#39;&#39;) {
-    global $tracelog, $traceprinter;
-    $backtrace = debug_backtrace(DEBUG_BACKTRACE_IGNORE_ARGS, 1);
-    $context = [
-        &#39;debug_backtrace&#39; =&amp;gt; $backtrace[0]
-    ];
-    if ( is_string($msg) || is_integer($msg) || is_bool($msg) ) {
-        $tracelog-&amp;gt;debug($msg);
-    } elseif ( is_object($msg) || is_array($msg) ) {
-        $tracelog-&amp;gt;debug( $traceprinter-&amp;gt;pprint(json_encode($msg), &#39;  &#39;), $context );
-    } else {
-        $tracelog-&amp;gt;debug( var_export($msg, true) );
-    }
-    return true;
-}
-&lt;/code&gt;&lt;/pre&gt;
-</content>
-  </entry>
-  <entry>
-    <title>Embed a &lt;video&gt; in responsive way</title>
-    <link href="https://randop.github.io/2019/02/05/embed-a-video-in-responsive-way/" />
-    <updated>2019-02-05T02:00:00Z</updated>
-    <id>https://randop.github.io/2019/02/05/embed-a-video-in-responsive-way/</id>
-    <content type="html">&lt;p&gt;This is how to embed a video on a page and make it responsive.&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;&amp;lt;style type=&amp;quot;text/css&amp;quot;&amp;gt;
-.video-responsive{
-    overflow:hidden;
-    padding-bottom:56.25%;
-    position:relative;
-    height:0;
-}
-.video-responsive iframe{
-    left:0;
-    top:0;
-    height:100%;
-    width:100%;
-    position:absolute;
-}
-&amp;lt;/style&amp;gt;
-
-&amp;lt;div class=&amp;quot;video-responsive&amp;quot;&amp;gt;
-    &amp;lt;iframe src=&amp;quot;https://www.youtube.com/embed/XXXXX&amp;quot; 
-        frameborder=&amp;quot;0&amp;quot; 
-        width=&amp;quot;970&amp;quot; height=&amp;quot;548&amp;quot;&amp;gt;&amp;lt;/iframe&amp;gt;
-&amp;lt;/div&amp;gt;
-&lt;/code&gt;&lt;/pre&gt;
-</content>
-  </entry>
-  <entry>
-    <title>Using Reflection to access protected properties in PHP</title>
-    <link href="https://randop.github.io/2019/04/15/using-reflection-to-access-protected-properties-in-php/" />
-    <updated>2019-04-15T02:00:00Z</updated>
-    <id>https://randop.github.io/2019/04/15/using-reflection-to-access-protected-properties-in-php/</id>
-    <content type="html">&lt;p&gt;Here is how to access protected class properties. Reflection is generally a method for   inspecting classes and modify its logic at execution time.&lt;/p&gt;
-&lt;pre&gt;&lt;code class=&quot;language-php&quot;&gt;&amp;lt;?php
-$class = new ReflectionClass($classInstance);
-$property = $class-&amp;gt;getProperty(&amp;quot;properties&amp;quot;);
-$property-&amp;gt;setAccessible(true);
-$properties = $property-&amp;gt;getValue($number);
-&lt;/code&gt;&lt;/pre&gt;
-</content>
-  </entry>
-  <entry>
-    <title>Timezone Conversion</title>
-    <link href="https://randop.github.io/2019/05/16/timezone-conversion/" />
-    <updated>2019-05-16T02:00:00Z</updated>
-    <id>https://randop.github.io/2019/05/16/timezone-conversion/</id>
-    <content type="html">&lt;p&gt;Converting a timestamp from and to a different timezones.&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;&amp;lt;?php
-$timestamp=&#39;2019-05-16 07:56:00&#39;;
-$format=&amp;quot;Y-m-d H:i:s&amp;quot;;
-$from_timezone=&#39;Asia/Manila&#39;;
-$to_timezone=&#39;America/Chicago&#39;;
-$source_timezone = new DateTimeZone($from_timezone);
-$destination_timezone = new DateTimeZone($to_timezone);
-$datetime = new DateTime($timestamp, $source_timezone);
-$offset = $destination_timezone-&amp;gt;getOffset($datetime);
-$newdate = date($format, $datetime-&amp;gt;format(&#39;U&#39;) + $offset);
-echo $newdate;
-&lt;/code&gt;&lt;/pre&gt;
+&lt;ol start=&quot;3&quot;&gt;
+&lt;li&gt;Push the changes to github repository. This will trigger the workflow action to execute.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3&gt;Docker support&lt;/h3&gt;
+&lt;p&gt;There are multiple &lt;em&gt;actions&lt;/em&gt; that supports building docker images with &lt;a href=&quot;https://github.com/marketplace/actions/run-on-architecture&quot;&gt;cross-platform architectures&lt;/a&gt; by using matrix strategy. The possibilities for docker CI/CD is good and straightforward.&lt;/p&gt;
+&lt;h3&gt;Conclusion&lt;/h3&gt;
+&lt;p&gt;Many open-source repositories have adopted GitHub Actions, primarily due to the limited availability of Jenkins or its perceived complexity.
+&lt;a href=&quot;https://github.blog/news-insights/company-news/addressing-githubs-recent-availability-issues/&quot;&gt;During major incidents in 2023&lt;/a&gt;, Github suffered database cluster failure that resulted in widespread GitHub Actions workflow failures. There is great possibility of it happening again soon. Having an available Jenkins CI/CD that will not be affected by big tech outages is very important.&lt;/p&gt;
 </content>
   </entry>
   <entry>
@@ -342,52 +129,265 @@ echo sanitize_links($string);
 </content>
   </entry>
   <entry>
-    <title>Github Jenkins</title>
-    <link href="https://randop.github.io/2025/06/23/github-jenkins/" />
-    <updated>2025-06-23T11:42:44Z</updated>
-    <id>https://randop.github.io/2025/06/23/github-jenkins/</id>
-    <content type="html">&lt;p&gt;Over the past few months, I’ve been exploring an alternative to &lt;a href=&quot;https://www.jenkins.io/&quot;&gt;Jenkins&lt;/a&gt;: &lt;a href=&quot;https://github.com/features/actions&quot;&gt;Github Actions&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;It enables CI/CD workflow automation that integrates directly with any GitHub repository.
-As of now, it offers 2,000 CI/CD minutes per month for &lt;em&gt;free&lt;/em&gt; on public repositories.&lt;/p&gt;
-&lt;h3&gt;Here is how it works in practice:&lt;/h3&gt;
-&lt;ol&gt;
-&lt;li&gt;Create a new file named &lt;code&gt;.github/workflows/action.yml&lt;/code&gt; in your project.&lt;/li&gt;
-&lt;li&gt;Add the following basic action to check out the repository:&lt;/li&gt;
-&lt;/ol&gt;
-&lt;pre&gt;&lt;code class=&quot;language-yaml&quot;&gt;name: My Action Test
-on:
-  push:
-    branches: [&amp;quot;master&amp;quot;]
-  pull_request:
-    branches: [&amp;quot;master&amp;quot;]
-  workflow_dispatch: # Allow manual triggering
-jobs:
-  checkout:
-    runs-on: ubuntu-latest
-    steps:
-      - name: Checkout repository
-        uses: actions/checkout@v4
+    <title>Timezone Conversion</title>
+    <link href="https://randop.github.io/2019/05/16/timezone-conversion/" />
+    <updated>2019-05-16T02:00:00Z</updated>
+    <id>https://randop.github.io/2019/05/16/timezone-conversion/</id>
+    <content type="html">&lt;p&gt;Converting a timestamp from and to a different timezones.&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;&amp;lt;?php
+$timestamp=&#39;2019-05-16 07:56:00&#39;;
+$format=&amp;quot;Y-m-d H:i:s&amp;quot;;
+$from_timezone=&#39;Asia/Manila&#39;;
+$to_timezone=&#39;America/Chicago&#39;;
+$source_timezone = new DateTimeZone($from_timezone);
+$destination_timezone = new DateTimeZone($to_timezone);
+$datetime = new DateTime($timestamp, $source_timezone);
+$offset = $destination_timezone-&amp;gt;getOffset($datetime);
+$newdate = date($format, $datetime-&amp;gt;format(&#39;U&#39;) + $offset);
+echo $newdate;
 &lt;/code&gt;&lt;/pre&gt;
-&lt;ol start=&quot;3&quot;&gt;
-&lt;li&gt;Push the changes to github repository. This will trigger the workflow action to execute.&lt;/li&gt;
-&lt;/ol&gt;
-&lt;h3&gt;Docker support&lt;/h3&gt;
-&lt;p&gt;There are multiple &lt;em&gt;actions&lt;/em&gt; that supports building docker images with &lt;a href=&quot;https://github.com/marketplace/actions/run-on-architecture&quot;&gt;cross-platform architectures&lt;/a&gt; by using matrix strategy. The possibilities for docker CI/CD is good and straightforward.&lt;/p&gt;
-&lt;h3&gt;Conclusion&lt;/h3&gt;
-&lt;p&gt;Many open-source repositories have adopted GitHub Actions, primarily due to the limited availability of Jenkins or its perceived complexity.
-&lt;a href=&quot;https://github.blog/news-insights/company-news/addressing-githubs-recent-availability-issues/&quot;&gt;During major incidents in 2023&lt;/a&gt;, Github suffered database cluster failure that resulted in widespread GitHub Actions workflow failures. There is great possibility of it happening again soon. Having an available Jenkins CI/CD that will not be affected by big tech outages is very important.&lt;/p&gt;
 </content>
   </entry>
   <entry>
-    <title>Writing blog with 11ty</title>
-    <link href="https://randop.github.io/2025/07/09/writing-blog-with-11ty/" />
-    <updated>2025-07-09T10:36:00Z</updated>
-    <id>https://randop.github.io/2025/07/09/writing-blog-with-11ty/</id>
-    <content type="html">&lt;p&gt;&lt;a href=&quot;https://github.com/11ty/eleventy&quot;&gt;Eleventy (11ty)&lt;/a&gt; is a simpler static site generator.
-The old blog site is using Jekyll and I have now migrated to 11ty.&lt;/p&gt;
-&lt;p&gt;See the source code at &lt;a href=&quot;https://github.com/randop/ledesma/tree/master/randop.github.io&quot;&gt;https://github.com/randop/ledesma/tree/master/randop.github.io&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;It is easier and very familiar to work with, thanks to javascript.&lt;/p&gt;
-&lt;p&gt;Be back for content as I import more of my archives.&lt;/p&gt;
+    <title>Using Reflection to access protected properties in PHP</title>
+    <link href="https://randop.github.io/2019/04/15/using-reflection-to-access-protected-properties-in-php/" />
+    <updated>2019-04-15T02:00:00Z</updated>
+    <id>https://randop.github.io/2019/04/15/using-reflection-to-access-protected-properties-in-php/</id>
+    <content type="html">&lt;p&gt;Here is how to access protected class properties. Reflection is generally a method for   inspecting classes and modify its logic at execution time.&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&quot;language-php&quot;&gt;&amp;lt;?php
+$class = new ReflectionClass($classInstance);
+$property = $class-&amp;gt;getProperty(&amp;quot;properties&amp;quot;);
+$property-&amp;gt;setAccessible(true);
+$properties = $property-&amp;gt;getValue($number);
+&lt;/code&gt;&lt;/pre&gt;
+</content>
+  </entry>
+  <entry>
+    <title>Embed a &lt;video&gt; in responsive way</title>
+    <link href="https://randop.github.io/2019/02/05/embed-a-video-in-responsive-way/" />
+    <updated>2019-02-05T02:00:00Z</updated>
+    <id>https://randop.github.io/2019/02/05/embed-a-video-in-responsive-way/</id>
+    <content type="html">&lt;p&gt;This is how to embed a video on a page and make it responsive.&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;&amp;lt;style type=&amp;quot;text/css&amp;quot;&amp;gt;
+.video-responsive{
+    overflow:hidden;
+    padding-bottom:56.25%;
+    position:relative;
+    height:0;
+}
+.video-responsive iframe{
+    left:0;
+    top:0;
+    height:100%;
+    width:100%;
+    position:absolute;
+}
+&amp;lt;/style&amp;gt;
+
+&amp;lt;div class=&amp;quot;video-responsive&amp;quot;&amp;gt;
+    &amp;lt;iframe src=&amp;quot;https://www.youtube.com/embed/XXXXX&amp;quot; 
+        frameborder=&amp;quot;0&amp;quot; 
+        width=&amp;quot;970&amp;quot; height=&amp;quot;548&amp;quot;&amp;gt;&amp;lt;/iframe&amp;gt;
+&amp;lt;/div&amp;gt;
+&lt;/code&gt;&lt;/pre&gt;
+</content>
+  </entry>
+  <entry>
+    <title>PHP Debugging Utility using Monolog</title>
+    <link href="https://randop.github.io/2018/12/19/php-debugging-utility-using-monolog/" />
+    <updated>2018-12-19T02:00:00Z</updated>
+    <id>https://randop.github.io/2018/12/19/php-debugging-utility-using-monolog/</id>
+    <content type="html">&lt;p&gt;Have created a debug helper script which is very useful for tracing issues in PHP.&lt;/p&gt;
+&lt;h4&gt;Requirements:&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Composer&lt;/li&gt;
+&lt;li&gt;Monolog&lt;/li&gt;
+&lt;li&gt;localheinz/json-printer&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4&gt;Installation:&lt;/h4&gt;
+&lt;pre&gt;&lt;code&gt;composer require monolog/monolog localheinz/json-printer
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h4&gt;Script&lt;/h4&gt;
+&lt;pre&gt;&lt;code class=&quot;language-php&quot;&gt;&amp;lt;?php
+use Monolog&#92;Logger;
+use Monolog&#92;ErrorHandler;
+use Monolog&#92;Formatter&#92;CustomLineFormatter;
+use Monolog&#92;Handler&#92;StreamHandler;
+use Monolog&#92;Processor&#92;IntrospectionProcessor;
+use Localheinz&#92;Json&#92;Printer&#92;Printer;
+//set this to desired log directory
+$logdir = &amp;quot;&amp;quot;;
+$traceprinter = new Printer();
+$traceformatter = new Monolog&#92;Formatter&#92;CustomLineFormatter(
+    null,
+    null,
+    true,
+    true
+);
+// create a log channel
+$monolog = new Logger(&#39;randolph&#39;);
+ErrorHandler::register($monolog);
+$monolog-&amp;gt;pushProcessor(new IntrospectionProcessor());
+$debugstream = new StreamHandler($logdir. &#39;/debug.log&#39;, Logger::DEBUG);
+$debugstream-&amp;gt;setFormatter($traceformatter);
+$monolog-&amp;gt;pushHandler($debugstream);
+// create a trace log channel
+$tracelog = new Logger(&#39;randolph&#39;);
+//$tracelog-&amp;gt;pushProcessor(new IntrospectionProcessor());
+$tracestream = new StreamHandler($logdir . &#39;/trace.log&#39;, Logger::DEBUG);
+$tracestream-&amp;gt;setFormatter($traceformatter);
+$tracelog-&amp;gt;pushHandler($tracestream);
+function dtrace($msg=&#39;&#39;) {
+    global $tracelog, $traceprinter;
+    $backtrace = debug_backtrace(DEBUG_BACKTRACE_IGNORE_ARGS, 1);
+    $context = [
+        &#39;debug_backtrace&#39; =&amp;gt; $backtrace[0]
+    ];
+    if ( is_string($msg) || is_integer($msg) || is_bool($msg) ) {
+        $tracelog-&amp;gt;debug($msg);
+    } elseif ( is_object($msg) || is_array($msg) ) {
+        $tracelog-&amp;gt;debug( $traceprinter-&amp;gt;pprint(json_encode($msg), &#39;  &#39;), $context );
+    } else {
+        $tracelog-&amp;gt;debug( var_export($msg, true) );
+    }
+    return true;
+}
+&lt;/code&gt;&lt;/pre&gt;
+</content>
+  </entry>
+  <entry>
+    <title>Add SSL functionality without any changes on application code</title>
+    <link href="https://randop.github.io/2018/10/22/add-ssl-functionality-without-any-changes-on-application-code/" />
+    <updated>2018-10-22T02:00:00Z</updated>
+    <id>https://randop.github.io/2018/10/22/add-ssl-functionality-without-any-changes-on-application-code/</id>
+    <content type="html">&lt;p&gt;The &lt;a href=&quot;https://www.stunnel.org/&quot;&gt;Stunnel&lt;/a&gt; program is designed to work as an SSL encryption wrapper between remote client and local (inetd-startable) or remote server. It can be used to add SSL functionality to commonly used inetd daemons like POP2, POP3, and IMAP servers without any changes in the program’s code.&lt;/p&gt;
+&lt;p&gt;What &lt;a href=&quot;https://www.stunnel.org/&quot;&gt;Stunnel&lt;/a&gt; basically does is that it turns any insecure TCP port into a secure encrypted port using OpenSSL package for cryptography. It’s somehow like a small secure VPN that runs on specific ports.&lt;/p&gt;
+&lt;p&gt;More information on setting up Stunnel can be found here &lt;a href=&quot;https://www.digitalocean.com/community/tutorials/how-to-set-up-an-ssl-tunnel-using-stunnel-on-ubuntu&quot;&gt;https://www.digitalocean.com/community/tutorials/how-to-set-up-an-ssl-tunnel-using-stunnel-on-ubuntu&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;An example configuration for stunnel.conf&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;; Sample stunnel configuration file for Unix by Michal Trojnara 2002-2014
+; Some options used here may be inadequate for your particular configuration
+; This sample file does *not* represent stunnel.conf defaults
+; Please consult the manual for detailed description of available options
+
+; **************************************************************************
+; * Global options                                                         *
+; **************************************************************************
+
+; A copy of some devices and system files is needed within the chroot jail
+; Chroot conflicts with configuration file reload and many other features
+; Remember also to update the logrotate configuration.
+;chroot = /var/lib/stunnel4/
+; Chroot jail can be escaped if setuid option is not used
+;setuid = stunnel4
+;setgid = stunnel4
+
+; PID file is created inside the chroot jail (if enabled)
+pid = /var/run/stunnel4.pid
+
+; Debugging stuff (may be useful for troubleshooting)
+;debug = 7
+;output = /var/log/stunnel4/stunnel.log
+
+; **************************************************************************
+; * Service defaults may also be specified in individual service sections  *
+; **************************************************************************
+
+; Certificate/key is needed in server mode and optional in client mode
+cert = /etc/stunnel/stunnel.pem
+;key = /etc/stunnel/mail.pem
+
+[ot1]
+accept = 5061
+connect = 5062
+TIMEOUTclose = 0
+
+[ot2]
+accept = 444
+connect = 5062
+TIMEOUTclose = 0
+
+; vim:ft=dosini
+&lt;/code&gt;&lt;/pre&gt;
+</content>
+  </entry>
+  <entry>
+    <title>Useful array map</title>
+    <link href="https://randop.github.io/2018/09/13/useful-array-map/" />
+    <updated>2018-09-13T02:00:00Z</updated>
+    <id>https://randop.github.io/2018/09/13/useful-array-map/</id>
+    <content type="html">&lt;p&gt;Here is an example of array_map function to produce a string by appending each content of a flat array.&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&quot;language-php&quot;&gt;&amp;lt;?php
+$the_ids = [1,2,3,4];
+echo implode(&#39; OR &#39;, array_map( function($id){ return &#39;id=&#39; . $id; }, $the_ids ) );
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Produces the following output:
+id=1 OR id=2 OR id=3 OR id=4&lt;/p&gt;
+&lt;p&gt;This can be useful when trying to pass a where condition on a sql.&lt;/p&gt;
+</content>
+  </entry>
+  <entry>
+    <title>Find function declaration in PHP</title>
+    <link href="https://randop.github.io/2018/08/31/find-function-declaration-in-php/" />
+    <updated>2018-08-31T02:00:00Z</updated>
+    <id>https://randop.github.io/2018/08/31/find-function-declaration-in-php/</id>
+    <content type="html">&lt;p&gt;This is a simple way to find where the function is defined on your script&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&quot;language-php&quot;&gt;&amp;lt;?php
+$reflFunc = new ReflectionFunction(&#39;function_name&#39;);
+print $reflFunc-&amp;gt;getFileName() . &#39;:&#39; . $reflFunc-&amp;gt;getStartLine();
+&lt;/code&gt;&lt;/pre&gt;
+</content>
+  </entry>
+  <entry>
+    <title>PHP Console Template</title>
+    <link href="https://randop.github.io/2018/05/24/php-console-template/" />
+    <updated>2018-05-24T02:00:00Z</updated>
+    <id>https://randop.github.io/2018/05/24/php-console-template/</id>
+    <content type="html">&lt;p&gt;A template to use when making a script that runs in command-line.&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&quot;language-php&quot;&gt;&amp;lt;?php
+ini_set(&#39;memory_limit&#39;, &#39;256M&#39;);
+function stdoutlog($msg)
+{
+    fwrite(STDOUT, date(&#39;Y-m-d G:i:s&#39;) . &#39; &#39;);
+    fwrite(STDOUT, $msg);
+    fwrite(STDOUT, PHP_EOL);
+}
+function log_error( $num, $str, $file, $line, $context = null )
+{
+    log_exception( new ErrorException( $str, 0, $num, $file, $line ) );
+}
+function log_exception( Exception $e )
+{
+    $err = &amp;quot;Type: &amp;quot; . get_class( $e ) . &amp;quot;; Message: {$e-&amp;gt;getMessage()}; File: {$e-&amp;gt;getFile()}; Line: {$e-&amp;gt;getLine()};&amp;quot;;
+    stdoutlog($err);
+}
+function check_for_fatal()
+{
+    $error = error_get_last();
+    if ( $error[&amp;quot;type&amp;quot;] == E_ERROR ) {
+        log_error( $error[&amp;quot;type&amp;quot;], $error[&amp;quot;message&amp;quot;], $error[&amp;quot;file&amp;quot;], $error[&amp;quot;line&amp;quot;] );
+    }
+}
+register_shutdown_function( &amp;quot;check_for_fatal&amp;quot; );
+set_error_handler( &amp;quot;log_error&amp;quot; );
+set_exception_handler( &amp;quot;log_exception&amp;quot; );
+error_reporting(E_ALL &amp;amp; ~(E_STRICT|E_NOTICE|E_DEPRECATED|E_USER_DEPRECATED));
+ini_set(&#39;error_reporting&#39;, E_ALL &amp;amp; ~(E_STRICT|E_NOTICE|E_DEPRECATED|E_USER_DEPRECATED));
+chdir( realpath( __DIR__) );
+&lt;/code&gt;&lt;/pre&gt;
+</content>
+  </entry>
+  <entry>
+    <title>Quick PHP Debugging</title>
+    <link href="https://randop.github.io/2018/01/18/quick-php-debugging/" />
+    <updated>2018-01-18T02:00:00Z</updated>
+    <id>https://randop.github.io/2018/01/18/quick-php-debugging/</id>
+    <content type="html">&lt;p&gt;Put this on top of your script and easily see the errors and warnings.&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&quot;language-php&quot;&gt;&amp;lt;?php
+error_reporting(E_ALL ^ E_DEPRECATED);
+ini_set(&#39;error_reporting&#39;, E_ALL ^ E_DEPRECATED);
+ini_set(&#39;display_startup_errors&#39;, 1);
+ini_set(&#39;display_errors&#39;, 1);
+&lt;/code&gt;&lt;/pre&gt;
 </content>
   </entry>
 </feed>
