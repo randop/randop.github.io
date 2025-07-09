@@ -59,6 +59,20 @@ jobs:
 </content>
   </entry>
   <entry>
+    <title>Trending: Linux Ricing</title>
+    <link href="https://randop.github.io/2025/04/27/trending-linux-ricing/" />
+    <updated>2025-04-27T22:23:00Z</updated>
+    <id>https://randop.github.io/2025/04/27/trending-linux-ricing/</id>
+    <content type="html">&lt;p&gt;I still remember back in 2009 where I&#39;m at the office on my former workplace installing &lt;a href=&quot;https://www.compiz-fusion.org/&quot;&gt;Compiz Fusion&lt;/a&gt; on my Fedora Linux workstation. It was really fun tweaking desktop. There is different kind of satisfaction to Linux ricing that Windows or Mac does not provide to this date.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://commons.wikimedia.org/wiki/File:Fedora-Core-6-AIGLX.png#/media/File:Fedora-Core-6-AIGLX.png&quot;&gt;&lt;img src=&quot;https://upload.wikimedia.org/wikipedia/commons/c/cb/Fedora-Core-6-AIGLX.png&quot; alt=&quot;Fedora-Core-6-AIGLX.png&quot; height=&quot;240&quot; width=&quot;320&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Fast forward now in 2025, a popular youtuber have posted a viral video of Linux ricing experience.&lt;/p&gt;
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/pVI_smLgTY0?si=nevwSneQCOkIWKjS&quot; title=&quot;YouTube:
+    I installed Linux (so should you) by @PewDiePie&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; referrerpolicy=&quot;strict-origin-when-cross-origin&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+&lt;p&gt;I got inspired to try setting up &lt;a href=&quot;https://dwm.suckless.org/&quot;&gt;dwm&lt;/a&gt; + &lt;a href=&quot;https://sw.kovidgoyal.net/kitty/&quot;&gt;kitty&lt;/a&gt; + &lt;a href=&quot;https://neovim.io/&quot;&gt;neovim&lt;/a&gt; with &lt;a href=&quot;https://www.lazyvim.org/&quot;&gt;LazyVim&lt;/a&gt; + &lt;a href=&quot;https://github.com/oh-my-fish/oh-my-fish&quot;&gt;Oh My Fish&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Will post it here on my blog.&lt;/p&gt;
+</content>
+  </entry>
+  <entry>
     <title>Sanitizing Links</title>
     <link href="https://randop.github.io/2019/07/17/sanitizing-links/" />
     <updated>2019-07-17T02:00:00Z</updated>
