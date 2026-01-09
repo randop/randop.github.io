@@ -4,11 +4,31 @@
   <subtitle>Discover expert insights, practical tips, and engaging stories on AI vibe coding, web development and programming.</subtitle>
   <link href="https://randop.github.io/feed.xml" rel="self" />
   <link href="https://randop.github.io/" />
-  <updated>2025-07-09T10:36:00Z</updated>
+  <updated>2026-01-09T10:00:00Z</updated>
   <id>https://randop.github.io/</id>
   <author>
     <name>Randolph Ledesma</name>
   </author>
+  <entry>
+    <title>Is Stack Overflow Dead?</title>
+    <link href="https://randop.github.io/2026/01/09/is-stack-overflow-dead/" />
+    <updated>2026-01-09T10:00:00Z</updated>
+    <id>https://randop.github.io/2026/01/09/is-stack-overflow-dead/</id>
+    <content type="html">&lt;p&gt;
+  &lt;a href=&quot;https://data.stackexchange.com/stackoverflow/query/1926661#graph&quot;&gt;
+    &lt;img src=&quot;https://pbs.twimg.com/media/G9xlSUcWoAAJpTZ?format=jpg&amp;name=large&quot; alt=&quot;StackOverflow usage graph&quot;&gt;
+  &lt;/a&gt;
+&lt;/p&gt;
+&lt;h3&gt;Honest take: &lt;strong&gt;YES&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;A moment of silence as we are gathered here to mourn the passing of Stack Overflow (2008 — 2026). The &lt;a href=&quot;https://data.stackexchange.com/stackoverflow/query/1926661#graph&quot;&gt;graph&lt;/a&gt; shows the question count over the past 17 years telling a brutal story of its &lt;strong&gt;~98% collapse&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;Here is a post from Stack Overflow, &lt;a href=&quot;https://stackoverflow.blog/2025/12/24/the-great-unracking-saying-goodbye-to-the-servers-at-our-physical-datacenter/&quot;&gt;The Great Unracking: Saying goodbye to the servers at our physical datacenter&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;
+  &lt;a href=&quot;https://stackoverflow.blog/2025/12/24/the-great-unracking-saying-goodbye-to-the-servers-at-our-physical-datacenter/&quot;&gt;
+    &lt;img src=&quot;https://pbs.twimg.com/media/G95Nt30WkAAobO6?format=jpg&amp;name=large&quot; alt=&quot;StackOverflow: goodbye datacenter&quot; width=&quot;1280&quot;&gt;
+  &lt;/a&gt;
+&lt;/p&gt;
+</content>
+  </entry>
   <entry>
     <title>Writing blog with 11ty</title>
     <link href="https://randop.github.io/2025/07/09/writing-blog-with-11ty/" />
