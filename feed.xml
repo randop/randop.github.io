@@ -4,11 +4,28 @@
   <subtitle>Discover expert insights, practical tips, and engaging stories on AI vibe coding, web development and programming.</subtitle>
   <link href="https://randop.github.io/feed.xml" rel="self" />
   <link href="https://randop.github.io/" />
-  <updated>2026-01-09T10:00:00Z</updated>
+  <updated>2026-04-14T06:21:00Z</updated>
   <id>https://randop.github.io/</id>
   <author>
     <name>Randolph Ledesma</name>
   </author>
+  <entry>
+    <title>Looking through the glass: AI Psychosis</title>
+    <link href="https://randop.github.io/2026/04/14/looking-through-the-glass-ai-psychosis/" />
+    <updated>2026-04-14T06:21:00Z</updated>
+    <id>https://randop.github.io/2026/04/14/looking-through-the-glass-ai-psychosis/</id>
+    <content type="html">&lt;p&gt;The new AI era is now the world we are living today. People today are using AI as modern tools to search on topics, fact check, generate shorts, do school homework, assist in day-to-day tasks on the workplace. This has created a side-effect syndrome referred today as &lt;strong&gt;&amp;quot;AI Psychosis&amp;quot;&lt;/strong&gt;.&lt;/p&gt;
+&lt;h3&gt;What is AI Psychosis?&lt;/h3&gt;
+&lt;p&gt;It is a psychological induced pressure on all parties involved with using, accusing, teaching and mandating Artificial Intelligence (AI). All sorts of mental pressures have always existed and continues on our lifetime. And now, this includes AI psychosis, that is affecting our daily lives.&lt;/p&gt;
+&lt;h3&gt;Bad report&lt;/h3&gt;
+&lt;p&gt;Several people are posting their experiences online. The video is by Mo Bitar (&lt;a href=&quot;https://x.com/atmoio&quot;&gt;@atmoio&lt;/a&gt;) describing a case of AI psychosis.&lt;/p&gt;
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/ZcH5C8Jlltc&quot; title=&quot;YouTube: The AI crisis no one is talking about&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; referrerpolicy=&quot;strict-origin-when-cross-origin&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+&lt;p&gt;Another viral video of Jensen Huang (CEO, Nvidia) having severe AI psychosis because of the aggressive AI hype.&lt;/p&gt;
+&lt;iframe width=&quot;315&quot; height=&quot;560&quot; src=&quot;https://www.youtube.com/embed/Ou1frpCQfMA&quot; title=&quot;YouTube: Nvidia&#39;s Huang Says He Doesn&#39;t Believe There&#39;s an AI Bubble&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; referrerpolicy=&quot;strict-origin-when-cross-origin&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+&lt;h3&gt;Next...&lt;/h3&gt;
+&lt;p&gt;There is not yet a massive success story that attributes AI as the sole reason. No student or teacher have come out to proclaim that AI created this new educational paradigm that shocked the world. No company or CEO or sales team have gone to public announcing that by them using AI have resulted in record-breaking profits by product created by AI. The next thing that can happen is people will love and hate AI as part of living in this new reality. The AI psychosis will not go away and will everyday cause issues just like how the Internet, social media, and other things on this world that gives pressure on us.&lt;/p&gt;
+</content>
+  </entry>
   <entry>
     <title>Is Stack Overflow Dead?</title>
     <link href="https://randop.github.io/2026/01/09/is-stack-overflow-dead/" />
@@ -86,7 +103,7 @@ jobs:
     <content type="html">&lt;p&gt;I still remember back in 2009 where I&#39;m at the office on my former workplace installing &lt;a href=&quot;https://www.compiz-fusion.org/&quot;&gt;Compiz Fusion&lt;/a&gt; on my Fedora Linux workstation. It was really fun tweaking desktop. There is different kind of satisfaction to Linux ricing that Windows or Mac does not provide to this date.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://commons.wikimedia.org/wiki/File:Fedora-Core-6-AIGLX.png#/media/File:Fedora-Core-6-AIGLX.png&quot;&gt;&lt;img src=&quot;https://upload.wikimedia.org/wikipedia/commons/c/cb/Fedora-Core-6-AIGLX.png&quot; alt=&quot;Fedora-Core-6-AIGLX.png&quot; height=&quot;240&quot; width=&quot;320&quot;&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Fast forward now in 2025, a popular youtuber have posted a viral video of Linux ricing experience.&lt;/p&gt;
-&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/pVI_smLgTY0?si=nevwSneQCOkIWKjS&quot; title=&quot;YouTube:
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/pVI_smLgTY0&quot; title=&quot;YouTube:
     I installed Linux (so should you) by @PewDiePie&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; referrerpolicy=&quot;strict-origin-when-cross-origin&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
 &lt;p&gt;I got inspired to try setting up &lt;a href=&quot;https://dwm.suckless.org/&quot;&gt;dwm&lt;/a&gt; + &lt;a href=&quot;https://sw.kovidgoyal.net/kitty/&quot;&gt;kitty&lt;/a&gt; + &lt;a href=&quot;https://neovim.io/&quot;&gt;neovim&lt;/a&gt; with &lt;a href=&quot;https://www.lazyvim.org/&quot;&gt;LazyVim&lt;/a&gt; + &lt;a href=&quot;https://github.com/oh-my-fish/oh-my-fish&quot;&gt;Oh My Fish&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Will post it here on my blog.&lt;/p&gt;
