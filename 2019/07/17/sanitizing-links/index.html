@@ -1,131 +1,61 @@
-
-<!doctype html>
-<html lang="en">
-  <head>
-    <meta charset="utf-8">
-
-<!-- Essential Meta Tags -->
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
-<meta http-equiv="X-UA-Compatible" content="IE=edge">
-
-<!-- Primary Meta Tags -->
-<meta name="title" content="Sanitizing Links">
-<meta name="description" content="Discover expert insights, practical tips, and engaging stories on AI, vibe coding, web development and programming.">
-<meta name="keywords" content="blog, insights, tips, stories, vibe coding, web development, programming, expert advice, tutorials">
-<meta name="author" content="Randolph Ledesma">
-<meta name="robots" content="index, follow">
-<meta name="language" content="English">
-<meta name="revisit-after" content="7 days">
-
-<!-- Open Graph / Facebook -->
-<meta property="og:type" content="website">
-<meta property="og:url" content="https://randop.github.io/2019/07/17/sanitizing-links/">
-<meta property="og:title" content="Sanitizing Links">
-<meta property="og:description" content="Discover expert insights, practical tips, and engaging stories on AI, vibe coding, web development and programming.">
-<meta property="og:image" content="https://randop.github.io/images/og-image.jpg">
-<meta property="og:image:width" content="1200">
-<meta property="og:image:height" content="630">
-<meta property="og:image:alt" content="Randolph Ledesma Blog">
-<meta property="og:site_name" content="Randolph Ledesma Blog">
-<meta property="og:locale" content="en_US">
-
-<!-- Twitter -->
-<meta property="twitter:card" content="summary_large_image">
-<meta property="twitter:url" content="https://randop.github.io/2019/07/17/sanitizing-links/">
-<meta property="twitter:title" content="Sanitizing Links">
-<meta property="twitter:description" content="Discover expert insights, practical tips, and engaging stories on AI, vibe coding, web development and programming.">
-<meta property="twitter:image" content="https://randop.github.io/images/og-image.jpg">
-<meta property="twitter:image:alt" content="Randolph Ledesma Blog">
-<meta name="twitter:site" content="@randopme">
-<meta name="twitter:creator" content="@randopme">
-
-<!-- Additional SEO Meta Tags -->
-<meta name="theme-color" content="#ffffff">
-<meta name="msapplication-TileColor" content="#ffffff">
-<meta name="msapplication-TileImage" content="/images/ms-icon-144x144.png">
-
-<!-- Favicon -->
-<link rel="apple-touch-icon" sizes="180x180" href="/images/apple-touch-icon.png">
-<link rel="icon" type="image/png" sizes="32x32" href="/images/favicon-32x32.png">
-<link rel="icon" type="image/png" sizes="16x16" href="/images/favicon-16x16.png">
-<link rel="manifest" href="/site.webmanifest">
-
-<!-- Canonical URL -->
-<link rel="canonical" href="https://randop.github.io/">
-    <title>Randolph Ledesma | BLOG: Sanitizing Links</title>
-    <link rel="stylesheet" href="/bundle.css">
-
-    <!-- Prism JS core and language-specific files with defer -->
-    <link rel="stylesheet" href="/assets/prism.css">
-    <script defer src="/assets/prism.js"></script>
-  </head>
-  <body>
-    <h1>Sanitizing Links</h1>
-    <h4>Wed Jul 17 2019 02:00:00 GMT+0000 (Coordinated Universal Time)</h4>
-    <p>Script to sanitize links on string. This can be useful when trying to format links from untrusted sources.</p>
-<h4>Requirements:</h4>
+<!DOCTYPE html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no"><meta http-equiv="X-UA-Compatible" content="IE=edge"><title>Randolph Ledesma: Sanitizing Links</title><meta name="title" content="Randolph Ledesma: Sanitizing Links"><meta name="description" content="Script to sanitize links on string. This can be useful when trying to format links from untrusted sources."><meta name="keywords" content="blog, insights, tips, stories, vibe coding, web development, programming, expert advice, tutorials"><meta name="author" content="Randolph Ledesma"><meta name="robots" content="index, follow"><meta name="language" content="English"><meta name="revisit-after" content="7 days"><link rel="canonical" href="https://randop.github.io/2019/07/17/sanitizing-links/"><link rel="alternate" type="application/atom+xml" title="Randolph Ledesma" href="https://randop.github.io/feed.xml"><link rel="icon" href="/favicon.svg" type="image/svg+xml"><link rel="icon" href="/favicon.ico" sizes="16x16 32x32 48x48"><meta property="og:type" content="article"><meta property="og:url" content="https://randop.github.io/2019/07/17/sanitizing-links/"><meta property="og:title" content="Randolph Ledesma: Sanitizing Links"><meta property="og:description" content="Script to sanitize links on string. This can be useful when trying to format links from untrusted sources."><meta property="og:image" content="https://randop.github.io/images/og-image.jpg"><meta property="og:image:width" content="1200"><meta property="og:image:height" content="630"><meta property="og:image:alt" content="Randolph Ledesma"><meta property="og:site_name" content="Randolph Ledesma"><meta property="og:locale" content="en_US"><meta property="article:published_time" content="2019-07-17T02:00:00.000Z"><meta name="twitter:card" content="summary_large_image"><meta name="twitter:url" content="https://randop.github.io/2019/07/17/sanitizing-links/"><meta name="twitter:title" content="Randolph Ledesma: Sanitizing Links"><meta name="twitter:description" content="Script to sanitize links on string. This can be useful when trying to format links from untrusted sources."><meta name="twitter:image" content="https://randop.github.io/images/og-image.jpg"><meta name="twitter:image:alt" content="Randolph Ledesma"><meta name="twitter:site" content="@randopme"><meta name="twitter:creator" content="@randopme"><meta name="theme-color" content="#ffffff" media="(prefers-color-scheme: light)"><meta name="theme-color" content="#1b1b1b" media="(prefers-color-scheme: dark)"><style>@font-face{font-family:"Source Serif 4-7e806bbeb40ec691";src:url("/assets/fonts/fbd754910c4373ff.woff2") format("woff2");font-display:swap;font-weight:200 900;font-style:normal;}@font-face{font-family:"Source Serif 4-7e806bbeb40ec691";src:url("/assets/fonts/67b80bdf2b004a08.woff2") format("woff2");font-display:swap;font-weight:200 900;font-style:italic;}@font-face{font-family:"Source Serif 4-7e806bbeb40ec691 fallback: Times New Roman";src:local("Times New Roman");font-display:swap;font-weight:200 900;font-style:normal;size-adjust:110.7692%;ascent-override:93.5278%;descent-override:30.2431%;line-gap-override:0%;}@font-face{font-family:"Source Serif 4-7e806bbeb40ec691 fallback: Times New Roman";src:local("Times New Roman");font-display:swap;font-weight:200 900;font-style:italic;size-adjust:110.7692%;ascent-override:93.5278%;descent-override:30.2431%;line-gap-override:0%;}:root{--font-serif:"Source Serif 4-7e806bbeb40ec691","Source Serif 4-7e806bbeb40ec691 fallback: Times New Roman",serif;}</style><link rel="preload" href="/assets/fonts/fbd754910c4373ff.woff2" as="font" type="font/woff2" crossorigin><style>@font-face{font-family:"Intel One Mono-66cb19ec10eca8e9";src:url("/assets/fonts/3cd33f5c3bf52db5.woff2") format("woff2"), url("/assets/fonts/884bdaafecb52bfd.woff") format("woff");font-display:swap;font-weight:300;font-style:normal;}@font-face{font-family:"Intel One Mono-66cb19ec10eca8e9";src:url("/assets/fonts/80978a6ebbc95e4e.woff2") format("woff2"), url("/assets/fonts/0219dccf9f7df76f.woff") format("woff");font-display:swap;font-weight:400;font-style:normal;}@font-face{font-family:"Intel One Mono-66cb19ec10eca8e9";src:url("/assets/fonts/b4560c45ba5cc630.woff2") format("woff2"), url("/assets/fonts/a9713a16019559a8.woff") format("woff");font-display:swap;font-weight:500;font-style:normal;}@font-face{font-family:"Intel One Mono-66cb19ec10eca8e9";src:url("/assets/fonts/73395d46fb6162e0.woff2") format("woff2"), url("/assets/fonts/5f3ee96282e9a749.woff") format("woff");font-display:swap;font-weight:700;font-style:normal;}@font-face{font-family:"Intel One Mono-66cb19ec10eca8e9";src:url("/assets/fonts/3a2bbc5c447237ff.woff2") format("woff2"), url("/assets/fonts/20848de04da91092.woff") format("woff");font-display:swap;font-weight:400;font-style:italic;}@font-face{font-family:"Intel One Mono-66cb19ec10eca8e9";src:url("/assets/fonts/180e95a2231479e5.woff2") format("woff2"), url("/assets/fonts/c718cf280049a199.woff") format("woff");font-display:swap;font-weight:700;font-style:italic;}@font-face{font-family:"Intel One Mono-66cb19ec10eca8e9 fallback: Courier New";src:local("Courier New");font-display:swap;font-weight:300;font-style:normal;size-adjust:102.3167%;ascent-override:106.532%;descent-override:28.3434%;}@font-face{font-family:"Intel One Mono-66cb19ec10eca8e9 fallback: Courier New";src:local("Courier New");font-display:swap;font-weight:400;font-style:normal;size-adjust:102.3167%;ascent-override:106.532%;descent-override:28.3434%;}@font-face{font-family:"Intel One Mono-66cb19ec10eca8e9 fallback: Courier New";src:local("Courier New");font-display:swap;font-weight:500;font-style:normal;size-adjust:102.3167%;ascent-override:106.532%;descent-override:28.3434%;}@font-face{font-family:"Intel One Mono-66cb19ec10eca8e9 fallback: Courier New";src:local("Courier New");font-display:swap;font-weight:700;font-style:normal;size-adjust:102.3167%;ascent-override:106.532%;descent-override:28.3434%;}@font-face{font-family:"Intel One Mono-66cb19ec10eca8e9 fallback: Courier New";src:local("Courier New");font-display:swap;font-weight:400;font-style:italic;size-adjust:102.3167%;ascent-override:106.532%;descent-override:28.3434%;}@font-face{font-family:"Intel One Mono-66cb19ec10eca8e9 fallback: Courier New";src:local("Courier New");font-display:swap;font-weight:700;font-style:italic;size-adjust:102.3167%;ascent-override:106.532%;descent-override:28.3434%;}:root{--font-intel-one-mono:"Intel One Mono-66cb19ec10eca8e9","Intel One Mono-66cb19ec10eca8e9 fallback: Courier New",monospace;}</style><link rel="preload" href="/assets/fonts/80978a6ebbc95e4e.woff2" as="font" type="font/woff2" crossorigin><link rel="stylesheet" href="/assets/BaseLayout.DdFokBm2.css"></head><body><h1>Sanitizing Links</h1><p class="post-date"><time datetime="2019-07-17T02:00:00.000Z">July 17, 2019</time></p><ul class="post-meta categories"><li>php</li><li>cybersecurity</li></ul><p>Script to sanitize links on string. This can be useful when trying to format links from untrusted sources.</p>
+<h4 id="requirements">Requirements:</h4>
 <ul>
 <li>composer</li>
 <li>php-xml</li>
 <li>php-mbstring</li>
 <li>ezyang/htmlpurifier</li>
 </ul>
-<h4>Installation:</h4>
-<pre><code>composer require ezyang/htmlpurifier
-</code></pre>
-<h4>Codes:</h4>
-<pre><code class="language-php">&lt;?php
-function fix_special_links($text='') {
-    $fixed = $text;
-    $fixed = str_replace(&quot;/&gt;&lt;br /&gt;&quot;, &quot;/&gt; &lt;br&gt;&quot;, $fixed);
-    $fixed = str_replace(&quot;/&gt;&lt;br&gt;&quot;, &quot;/&gt; &lt;br&gt;&quot;, $fixed);
-    $fixed = preg_replace(&quot;#\&lt;http:\/\/(.*)(\/\&gt;)+#i&quot;, &quot;(http://$1)&quot;, $fixed);
-    $fixed = preg_replace(&quot;#\&lt;https:\/\/(.*)(\/\&gt;)+#i&quot;, &quot;(https://$1)&quot;, $fixed);
-    return $fixed;
-}
-function sanitize_links($text='') {
-    $text = $this-&gt;fix_special_links($text);
-    $config = \HTMLPurifier_Config::createDefault();
-    $purifier = new \HTMLPurifier($config);
-    $text = $purifier-&gt;purify($text);
-    $return = $text;
-    try {
-        libxml_use_internal_errors(true);
-        libxml_clear_errors();
-        $doc = new DOMDocument('1.0', 'UTF-8');
-        $doc-&gt;preserveWhiteSpace = false;
-        $doc-&gt;loadHTML( mb_convert_encoding($text, 'HTML-ENTITIES', 'UTF-8'));
-        $links = $doc-&gt;getElementsByTagName('a');
-        //Loop through each &lt;a&gt; tags and replace them by their text content
-        for ($i = $links-&gt;length - 1; $i &gt;= 0; $i--) {
-            $linkNode = $links-&gt;item($i);
-            $lnkText = $linkNode-&gt;textContent;
-            $newTxtNode = $doc-&gt;createTextNode($lnkText);
-            $linkNode-&gt;parentNode-&gt;replaceChild($newTxtNode, $linkNode);
-        }
-        $return = $doc-&gt;saveHTML($doc-&gt;documentElement);
-        $return = str_replace( array('&lt;html&gt;', '&lt;/html&gt;', '&lt;body&gt;', '&lt;/body&gt;'), array('', '', '', ''), $return);
-    } catch (Exception $e) {
-        //fallback on using preg_replace
-        $return = preg_replace('#&lt;a.*?&gt;([^&gt;]*)&lt;/a&gt;#i', '$1', $text);
-    }
-    $return = str_replace(&quot;&gt;\n&lt;&quot;, &quot;&gt;&lt;&quot;, $return);
-    $return = str_replace(&quot;&gt;\r&lt;&quot;, &quot;&gt;&lt;&quot;, $return);
-    return $return;
-}
-function sanitize_string($string='') {
-    $string = iconv(&quot;Windows-1251&quot;, &quot;UTF-8&quot;, $string);
-    $string = preg_replace('/[\x{2019}\x{2018}\x{2019}\x{201A}\x{201B}\x{2032}\x{2035}]/u', &quot;'&quot;, $string);
-    $string = preg_replace('/[\x{201C}\x{201D}\x{201E}\x{201F}\x{2033}\x{2036}]/u', '&quot;', $string);
-    $string = preg_replace('/[[:^print:]]/', &quot;&quot;, $string);
-    return $string;
-}
-</code></pre>
-<h4>Usage:</h4>
-<pre><code class="language-php">$string = &quot;String with links &lt;a href='https://randolphledesma.com'&gt;https://randolphledesma.com&lt;/a&gt;&quot;;
-echo sanitize_links($string);
-</code></pre>
-
-  </body>
-</html>
+<h4 id="installation">Installation:</h4>
+<pre class="astro-code astro-code-themes github-light github-dark" style="--shiki-light:#24292e;--shiki-dark:#e1e4e8;--shiki-light-bg:#fff;--shiki-dark-bg:#24292e; overflow-x: auto; white-space: pre-wrap; word-wrap: break-word;" tabindex="0" data-language="plaintext"><code><span class="line"><span>composer require ezyang/htmlpurifier</span></span></code></pre>
+<h4 id="codes">Codes:</h4>
+<pre class="astro-code astro-code-themes github-light github-dark" style="--shiki-light:#24292e;--shiki-dark:#e1e4e8;--shiki-light-bg:#fff;--shiki-dark-bg:#24292e; overflow-x: auto; white-space: pre-wrap; word-wrap: break-word;" tabindex="0" data-language="php"><code><span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">&lt;?</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF">php</span></span>
+<span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">function</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0"> fix_special_links</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">($text</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">=</span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF">''</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">) {</span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">    $fixed </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">=</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> $text;</span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">    $fixed </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">=</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"> str_replace</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">(</span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF">"/&gt;&lt;br /&gt;"</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">, </span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF">"/&gt; &lt;br&gt;"</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">, $fixed);</span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">    $fixed </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">=</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"> str_replace</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">(</span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF">"/&gt;&lt;br&gt;"</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">, </span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF">"/&gt; &lt;br&gt;"</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">, $fixed);</span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">    $fixed </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">=</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"> preg_replace</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">(</span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF">"#\&lt;http:\/\/(.*)(\/\&gt;)+#i"</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">, </span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF">"(http://$1)"</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">, $fixed);</span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">    $fixed </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">=</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"> preg_replace</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">(</span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF">"#\&lt;https:\/\/(.*)(\/\&gt;)+#i"</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">, </span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF">"(https://$1)"</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">, $fixed);</span></span>
+<span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">    return</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> $fixed;</span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">}</span></span>
+<span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">function</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0"> sanitize_links</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">($text</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">=</span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF">''</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">) {</span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">    $text </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">=</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"> $this</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">-&gt;</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0">fix_special_links</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">($text);</span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">    $config </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">=</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"> \HTMLPurifier_Config</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">::</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0">createDefault</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">();</span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">    $purifier </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">=</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583"> new</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"> \HTMLPurifier</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">($config);</span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">    $text </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">=</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> $purifier</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">-&gt;</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0">purify</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">($text);</span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">    $return </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">=</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> $text;</span></span>
+<span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">    try</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> {</span></span>
+<span class="line"><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF">        libxml_use_internal_errors</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">(</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF">true</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">);</span></span>
+<span class="line"><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF">        libxml_clear_errors</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">();</span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">        $doc </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">=</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583"> new</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"> DOMDocument</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">(</span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF">'1.0'</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">, </span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF">'UTF-8'</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">);</span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">        $doc</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">-&gt;</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">preserveWhiteSpace </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">=</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"> false</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">;</span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">        $doc</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">-&gt;</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0">loadHTML</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">( </span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF">mb_convert_encoding</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">($text, </span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF">'HTML-ENTITIES'</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">, </span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF">'UTF-8'</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">));</span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">        $links </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">=</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> $doc</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">-&gt;</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0">getElementsByTagName</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">(</span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF">'a'</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">);</span></span>
+<span class="line"><span style="--shiki-light:#6A737D;--shiki-dark:#6A737D">        //Loop through each &lt;a&gt; tags and replace them by their text content</span></span>
+<span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">        for</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> ($i </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">=</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> $links</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">-&gt;</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">length </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">-</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"> 1</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">; $i </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">&gt;=</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"> 0</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">; $i</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">--</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">) {</span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">            $linkNode </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">=</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> $links</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">-&gt;</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0">item</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">($i);</span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">            $lnkText </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">=</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> $linkNode</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">-&gt;</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">textContent;</span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">            $newTxtNode </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">=</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> $doc</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">-&gt;</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0">createTextNode</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">($lnkText);</span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">            $linkNode</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">-&gt;</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">parentNode</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">-&gt;</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0">replaceChild</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">($newTxtNode, $linkNode);</span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">        }</span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">        $return </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">=</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> $doc</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">-&gt;</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0">saveHTML</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">($doc</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">-&gt;</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">documentElement);</span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">        $return </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">=</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"> str_replace</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">( </span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF">array</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">(</span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF">'&lt;html&gt;'</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">, </span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF">'&lt;/html&gt;'</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">, </span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF">'&lt;body&gt;'</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">, </span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF">'&lt;/body&gt;'</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">), </span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF">array</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">(</span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF">''</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">, </span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF">''</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">, </span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF">''</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">, </span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF">''</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">), $return);</span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">    } </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">catch</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> (</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF">Exception</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> $e) {</span></span>
+<span class="line"><span style="--shiki-light:#6A737D;--shiki-dark:#6A737D">        //fallback on using preg_replace</span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">        $return </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">=</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"> preg_replace</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">(</span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF">'#&lt;a.*?&gt;([^&gt;]*)&lt;/a&gt;#i'</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">, </span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF">'$1'</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">, $text);</span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">    }</span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">    $return </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">=</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"> str_replace</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">(</span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF">"&gt;</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF">\n</span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF">&lt;"</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">, </span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF">"&gt;&lt;"</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">, $return);</span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">    $return </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">=</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"> str_replace</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">(</span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF">"&gt;</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF">\r</span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF">&lt;"</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">, </span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF">"&gt;&lt;"</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">, $return);</span></span>
+<span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">    return</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> $return;</span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">}</span></span>
+<span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">function</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0"> sanitize_string</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">($string</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">=</span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF">''</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">) {</span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">    $string </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">=</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"> iconv</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">(</span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF">"Windows-1251"</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">, </span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF">"UTF-8"</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">, $string);</span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">    $string </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">=</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"> preg_replace</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">(</span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF">'/</span><span style="--shiki-light:#032F62;--shiki-dark:#DBEDFF">[\x{2019}\x{2018}\x{2019}\x{201A}\x{201B}\x{2032}\x{2035}]</span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF">/u'</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">, </span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF">"'"</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">, $string);</span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">    $string </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">=</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"> preg_replace</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">(</span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF">'/</span><span style="--shiki-light:#032F62;--shiki-dark:#DBEDFF">[\x{201C}\x{201D}\x{201E}\x{201F}\x{2033}\x{2036}]</span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF">/u'</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">, </span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF">'"'</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">, $string);</span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">    $string </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">=</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"> preg_replace</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">(</span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF">'/</span><span style="--shiki-light:#032F62;--shiki-dark:#DBEDFF">[[:^print:]]</span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF">/'</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">, </span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF">""</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">, $string);</span></span>
+<span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">    return</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> $string;</span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">}</span></span></code></pre>
+<h4 id="usage">Usage:</h4>
+<pre class="astro-code astro-code-themes github-light github-dark" style="--shiki-light:#24292e;--shiki-dark:#e1e4e8;--shiki-light-bg:#fff;--shiki-dark-bg:#24292e; overflow-x: auto; white-space: pre-wrap; word-wrap: break-word;" tabindex="0" data-language="php"><code><span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">$string </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">=</span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF"> "String with links &lt;a href='https://randolphledesma.com'&gt;https://randolphledesma.com&lt;/a&gt;"</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">;</span></span>
+<span class="line"><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF">echo</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0"> sanitize_links</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">($string);</span></span></code></pre>
+<footer><p>&copy; 2026 Randolph Ledesma. <a href="/feed.xml">Atom feed</a> &middot;<a href="/archive/">All posts</a></p></footer></body></html>

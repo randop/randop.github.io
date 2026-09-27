@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
-  <title>Randolph Ledesma Blog</title>
-  <subtitle>Discover expert insights, practical tips, and engaging stories on AI vibe coding, web development and programming.</subtitle>
+  <title>Randolph Ledesma</title>
+  <subtitle>Discover expert insights, practical tips, and engaging stories on AI, vibe coding, web development and programming.</subtitle>
   <link href="https://randop.github.io/feed.xml" rel="self" />
   <link href="https://randop.github.io/" />
-  <updated>2026-04-14T06:21:00Z</updated>
+  <updated>2026-04-14T06:21:00.000Z</updated>
   <id>https://randop.github.io/</id>
   <author>
     <name>Randolph Ledesma</name>
@@ -12,36 +12,38 @@
   <entry>
     <title>Looking through the glass: AI Psychosis</title>
     <link href="https://randop.github.io/2026/04/14/looking-through-the-glass-ai-psychosis/" />
-    <updated>2026-04-14T06:21:00Z</updated>
+    <updated>2026-04-14T06:21:00.000Z</updated>
     <id>https://randop.github.io/2026/04/14/looking-through-the-glass-ai-psychosis/</id>
-    <content type="html">&lt;p&gt;The new AI era is now the world we are living today. People today are using AI as modern tools to search on topics, fact check, generate shorts, do school homework, assist in day-to-day tasks on the workplace. This has created a side-effect syndrome referred today as &lt;strong&gt;&amp;quot;AI Psychosis&amp;quot;&lt;/strong&gt;.&lt;/p&gt;
-&lt;h3&gt;What is AI Psychosis?&lt;/h3&gt;
+    <summary>The new AI era is now the world we are living today. People today are using AI as modern tools to search on topics, fact check, generate shorts, do school homework, assist in day-to-day tasks on the…</summary>
+    <content type="html">&lt;p&gt;The new AI era is now the world we are living today. People today are using AI as modern tools to search on topics, fact check, generate shorts, do school homework, assist in day-to-day tasks on the workplace. This has created a side-effect syndrome referred today as &lt;strong&gt;“AI Psychosis”&lt;/strong&gt;.&lt;/p&gt;
+&lt;h3 id="what-is-ai-psychosis"&gt;What is AI Psychosis?&lt;/h3&gt;
 &lt;p&gt;It is a psychological induced pressure on all parties involved with using, accusing, teaching and mandating Artificial Intelligence (AI). All sorts of mental pressures have always existed and continues on our lifetime. And now, this includes AI psychosis, that is affecting our daily lives.&lt;/p&gt;
-&lt;h3&gt;Bad report&lt;/h3&gt;
-&lt;p&gt;Several people are posting their experiences online. The video is by Mo Bitar (&lt;a href=&quot;https://x.com/atmoio&quot;&gt;@atmoio&lt;/a&gt;) describing a case of AI psychosis.&lt;/p&gt;
-&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/ZcH5C8Jlltc&quot; title=&quot;YouTube: The AI crisis no one is talking about&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; referrerpolicy=&quot;strict-origin-when-cross-origin&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+&lt;h3 id="bad-report"&gt;Bad report&lt;/h3&gt;
+&lt;p&gt;Several people are posting their experiences online. The video is by Mo Bitar (&lt;a href="https://x.com/atmoio"&gt;@atmoio&lt;/a&gt;) describing a case of AI psychosis.&lt;/p&gt;
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/ZcH5C8Jlltc" title="YouTube: The AI crisis no one is talking about" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen&gt;&lt;/iframe&gt;
 &lt;p&gt;Another viral video of Jensen Huang (CEO, Nvidia) having severe AI psychosis because of the aggressive AI hype.&lt;/p&gt;
-&lt;iframe width=&quot;315&quot; height=&quot;560&quot; src=&quot;https://www.youtube.com/embed/Ou1frpCQfMA&quot; title=&quot;YouTube: Nvidia&#39;s Huang Says He Doesn&#39;t Believe There&#39;s an AI Bubble&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; referrerpolicy=&quot;strict-origin-when-cross-origin&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-&lt;h3&gt;Next...&lt;/h3&gt;
+&lt;iframe width="315" height="560" src="https://www.youtube.com/embed/Ou1frpCQfMA" title="YouTube: Nvidia's Huang Says He Doesn't Believe There's an AI Bubble" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen&gt;&lt;/iframe&gt;
+&lt;h3 id="next"&gt;Next…&lt;/h3&gt;
 &lt;p&gt;There is not yet a massive success story that attributes AI as the sole reason. No student or teacher have come out to proclaim that AI created this new educational paradigm that shocked the world. No company or CEO or sales team have gone to public announcing that by them using AI have resulted in record-breaking profits by product created by AI. The next thing that can happen is people will love and hate AI as part of living in this new reality. The AI psychosis will not go away and will everyday cause issues just like how the Internet, social media, and other things on this world that gives pressure on us.&lt;/p&gt;
 </content>
   </entry>
   <entry>
     <title>Is Stack Overflow Dead?</title>
     <link href="https://randop.github.io/2026/01/09/is-stack-overflow-dead/" />
-    <updated>2026-01-09T10:00:00Z</updated>
+    <updated>2026-01-09T10:00:00.000Z</updated>
     <id>https://randop.github.io/2026/01/09/is-stack-overflow-dead/</id>
+    <summary>A moment of silence as we are gathered here to mourn the passing of Stack Overflow (2008 — 2026). The graph shows the question count over the past 17 years telling a brutal story of its ~98% collapse…</summary>
     <content type="html">&lt;p&gt;
-  &lt;a href=&quot;https://data.stackexchange.com/stackoverflow/query/1926661#graph&quot;&gt;
-    &lt;img src=&quot;https://pbs.twimg.com/media/G9xlSUcWoAAJpTZ?format=jpg&amp;name=large&quot; alt=&quot;StackOverflow usage graph&quot;&gt;
+  &lt;a href="https://data.stackexchange.com/stackoverflow/query/1926661#graph"&gt;
+    &lt;img src="https://pbs.twimg.com/media/G9xlSUcWoAAJpTZ?format=jpg&amp;name=large" alt="StackOverflow usage graph" /&gt;
   &lt;/a&gt;
 &lt;/p&gt;
-&lt;h3&gt;Honest take: &lt;strong&gt;YES&lt;/strong&gt;&lt;/h3&gt;
-&lt;p&gt;A moment of silence as we are gathered here to mourn the passing of Stack Overflow (2008 — 2026). The &lt;a href=&quot;https://data.stackexchange.com/stackoverflow/query/1926661#graph&quot;&gt;graph&lt;/a&gt; shows the question count over the past 17 years telling a brutal story of its &lt;strong&gt;~98% collapse&lt;/strong&gt;.&lt;/p&gt;
-&lt;p&gt;Here is a post from Stack Overflow, &lt;a href=&quot;https://stackoverflow.blog/2025/12/24/the-great-unracking-saying-goodbye-to-the-servers-at-our-physical-datacenter/&quot;&gt;The Great Unracking: Saying goodbye to the servers at our physical datacenter&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id="honest-take-yes"&gt;Honest take: &lt;strong&gt;YES&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;A moment of silence as we are gathered here to mourn the passing of Stack Overflow (2008 — 2026). The &lt;a href="https://data.stackexchange.com/stackoverflow/query/1926661#graph"&gt;graph&lt;/a&gt; shows the question count over the past 17 years telling a brutal story of its &lt;strong&gt;~98% collapse&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;Here is a post from Stack Overflow, &lt;a href="https://stackoverflow.blog/2025/12/24/the-great-unracking-saying-goodbye-to-the-servers-at-our-physical-datacenter/"&gt;The Great Unracking: Saying goodbye to the servers at our physical datacenter&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;
-  &lt;a href=&quot;https://stackoverflow.blog/2025/12/24/the-great-unracking-saying-goodbye-to-the-servers-at-our-physical-datacenter/&quot;&gt;
-    &lt;img src=&quot;https://pbs.twimg.com/media/G95Nt30WkAAobO6?format=jpg&amp;name=large&quot; alt=&quot;StackOverflow: goodbye datacenter&quot; width=&quot;1280&quot;&gt;
+  &lt;a href="https://stackoverflow.blog/2025/12/24/the-great-unracking-saying-goodbye-to-the-servers-at-our-physical-datacenter/"&gt;
+    &lt;img src="https://pbs.twimg.com/media/G95Nt30WkAAobO6?format=jpg&amp;name=large" alt="StackOverflow: goodbye datacenter" width="1280" /&gt;
   &lt;/a&gt;
 &lt;/p&gt;
 </content>
@@ -49,11 +51,12 @@
   <entry>
     <title>Writing blog with 11ty</title>
     <link href="https://randop.github.io/2025/07/09/writing-blog-with-11ty/" />
-    <updated>2025-07-09T10:36:00Z</updated>
+    <updated>2025-07-09T10:36:00.000Z</updated>
     <id>https://randop.github.io/2025/07/09/writing-blog-with-11ty/</id>
-    <content type="html">&lt;p&gt;&lt;a href=&quot;https://github.com/11ty/eleventy&quot;&gt;Eleventy (11ty)&lt;/a&gt; is a simpler static site generator.
+    <summary>Eleventy (11ty) is a simpler static site generator. The old blog site is using Jekyll and I have now migrated to 11ty.</summary>
+    <content type="html">&lt;p&gt;&lt;a href="https://github.com/11ty/eleventy"&gt;Eleventy (11ty)&lt;/a&gt; is a simpler static site generator.
 The old blog site is using Jekyll and I have now migrated to 11ty.&lt;/p&gt;
-&lt;p&gt;See the source code at &lt;a href=&quot;https://github.com/randop/ledesma/tree/master/randop.github.io&quot;&gt;https://github.com/randop/ledesma/tree/master/randop.github.io&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;See the source code at &lt;a href="https://github.com/randop/ledesma/tree/master/randop.github.io"&gt;https://github.com/randop/ledesma/tree/master/randop.github.io&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;It is easier and very familiar to work with, thanks to javascript.&lt;/p&gt;
 &lt;p&gt;Be back for content as I import more of my archives.&lt;/p&gt;
 </content>
@@ -61,316 +64,314 @@ The old blog site is using Jekyll and I have now migrated to 11ty.&lt;/p&gt;
   <entry>
     <title>Github Jenkins</title>
     <link href="https://randop.github.io/2025/06/23/github-jenkins/" />
-    <updated>2025-06-23T11:42:44Z</updated>
+    <updated>2025-06-23T11:42:44.000Z</updated>
     <id>https://randop.github.io/2025/06/23/github-jenkins/</id>
-    <content type="html">&lt;p&gt;Over the past few months, I’ve been exploring an alternative to &lt;a href=&quot;https://www.jenkins.io/&quot;&gt;Jenkins&lt;/a&gt;: &lt;a href=&quot;https://github.com/features/actions&quot;&gt;Github Actions&lt;/a&gt;.&lt;/p&gt;
+    <summary>Over the past few months, I’ve been exploring an alternative to Jenkins: Github Actions.</summary>
+    <content type="html">&lt;p&gt;Over the past few months, I’ve been exploring an alternative to &lt;a href="https://www.jenkins.io/"&gt;Jenkins&lt;/a&gt;: &lt;a href="https://github.com/features/actions"&gt;Github Actions&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;It enables CI/CD workflow automation that integrates directly with any GitHub repository.
 As of now, it offers 2,000 CI/CD minutes per month for &lt;em&gt;free&lt;/em&gt; on public repositories.&lt;/p&gt;
-&lt;h3&gt;Here is how it works in practice:&lt;/h3&gt;
+&lt;h3 id="here-is-how-it-works-in-practice"&gt;Here is how it works in practice:&lt;/h3&gt;
 &lt;ol&gt;
 &lt;li&gt;Create a new file named &lt;code&gt;.github/workflows/action.yml&lt;/code&gt; in your project.&lt;/li&gt;
 &lt;li&gt;Add the following basic action to check out the repository:&lt;/li&gt;
 &lt;/ol&gt;
-&lt;pre&gt;&lt;code class=&quot;language-yaml&quot;&gt;name: My Action Test
-on:
-  push:
-    branches: [&amp;quot;master&amp;quot;]
-  pull_request:
-    branches: [&amp;quot;master&amp;quot;]
-  workflow_dispatch: # Allow manual triggering
-jobs:
-  checkout:
-    runs-on: ubuntu-latest
-    steps:
-      - name: Checkout repository
-        uses: actions/checkout@v4
-&lt;/code&gt;&lt;/pre&gt;
-&lt;ol start=&quot;3&quot;&gt;
+&lt;pre class="astro-code astro-code-themes github-light github-dark" style="--shiki-light:#24292e;--shiki-dark:#e1e4e8;--shiki-light-bg:#fff;--shiki-dark-bg:#24292e; overflow-x: auto; white-space: pre-wrap; word-wrap: break-word;" tabindex="0" data-language="yaml"&gt;&lt;code&gt;&lt;span class="line"&gt;&lt;span style="--shiki-light:#22863A;--shiki-dark:#85E89D"&gt;name&lt;/span&gt;&lt;span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"&gt;: &lt;/span&gt;&lt;span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF"&gt;My Action Test&lt;/span&gt;&lt;/span&gt;
+&lt;span class="line"&gt;&lt;span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"&gt;on&lt;/span&gt;&lt;span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"&gt;:&lt;/span&gt;&lt;/span&gt;
+&lt;span class="line"&gt;&lt;span style="--shiki-light:#22863A;--shiki-dark:#85E89D"&gt;  push&lt;/span&gt;&lt;span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"&gt;:&lt;/span&gt;&lt;/span&gt;
+&lt;span class="line"&gt;&lt;span style="--shiki-light:#22863A;--shiki-dark:#85E89D"&gt;    branches&lt;/span&gt;&lt;span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"&gt;: [&lt;/span&gt;&lt;span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF"&gt;"master"&lt;/span&gt;&lt;span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"&gt;]&lt;/span&gt;&lt;/span&gt;
+&lt;span class="line"&gt;&lt;span style="--shiki-light:#22863A;--shiki-dark:#85E89D"&gt;  pull_request&lt;/span&gt;&lt;span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"&gt;:&lt;/span&gt;&lt;/span&gt;
+&lt;span class="line"&gt;&lt;span style="--shiki-light:#22863A;--shiki-dark:#85E89D"&gt;    branches&lt;/span&gt;&lt;span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"&gt;: [&lt;/span&gt;&lt;span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF"&gt;"master"&lt;/span&gt;&lt;span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"&gt;]&lt;/span&gt;&lt;/span&gt;
+&lt;span class="line"&gt;&lt;span style="--shiki-light:#22863A;--shiki-dark:#85E89D"&gt;  workflow_dispatch&lt;/span&gt;&lt;span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"&gt;: &lt;/span&gt;&lt;span style="--shiki-light:#6A737D;--shiki-dark:#6A737D"&gt;# Allow manual triggering&lt;/span&gt;&lt;/span&gt;
+&lt;span class="line"&gt;&lt;span style="--shiki-light:#22863A;--shiki-dark:#85E89D"&gt;jobs&lt;/span&gt;&lt;span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"&gt;:&lt;/span&gt;&lt;/span&gt;
+&lt;span class="line"&gt;&lt;span style="--shiki-light:#22863A;--shiki-dark:#85E89D"&gt;  checkout&lt;/span&gt;&lt;span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"&gt;:&lt;/span&gt;&lt;/span&gt;
+&lt;span class="line"&gt;&lt;span style="--shiki-light:#22863A;--shiki-dark:#85E89D"&gt;    runs-on&lt;/span&gt;&lt;span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"&gt;: &lt;/span&gt;&lt;span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF"&gt;ubuntu-latest&lt;/span&gt;&lt;/span&gt;
+&lt;span class="line"&gt;&lt;span style="--shiki-light:#22863A;--shiki-dark:#85E89D"&gt;    steps&lt;/span&gt;&lt;span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"&gt;:&lt;/span&gt;&lt;/span&gt;
+&lt;span class="line"&gt;&lt;span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"&gt;      - &lt;/span&gt;&lt;span style="--shiki-light:#22863A;--shiki-dark:#85E89D"&gt;name&lt;/span&gt;&lt;span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"&gt;: &lt;/span&gt;&lt;span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF"&gt;Checkout repository&lt;/span&gt;&lt;/span&gt;
+&lt;span class="line"&gt;&lt;span style="--shiki-light:#22863A;--shiki-dark:#85E89D"&gt;        uses&lt;/span&gt;&lt;span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"&gt;: &lt;/span&gt;&lt;span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF"&gt;actions/checkout@v4&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;
+&lt;ol start="3"&gt;
 &lt;li&gt;Push the changes to github repository. This will trigger the workflow action to execute.&lt;/li&gt;
 &lt;/ol&gt;
-&lt;h3&gt;Docker support&lt;/h3&gt;
-&lt;p&gt;There are multiple &lt;em&gt;actions&lt;/em&gt; that supports building docker images with &lt;a href=&quot;https://github.com/marketplace/actions/run-on-architecture&quot;&gt;cross-platform architectures&lt;/a&gt; by using matrix strategy. The possibilities for docker CI/CD is good and straightforward.&lt;/p&gt;
-&lt;h3&gt;Conclusion&lt;/h3&gt;
+&lt;h3 id="docker-support"&gt;Docker support&lt;/h3&gt;
+&lt;p&gt;There are multiple &lt;em&gt;actions&lt;/em&gt; that supports building docker images with &lt;a href="https://github.com/marketplace/actions/run-on-architecture"&gt;cross-platform architectures&lt;/a&gt; by using matrix strategy. The possibilities for docker CI/CD is good and straightforward.&lt;/p&gt;
+&lt;h3 id="conclusion"&gt;Conclusion&lt;/h3&gt;
 &lt;p&gt;Many open-source repositories have adopted GitHub Actions, primarily due to the limited availability of Jenkins or its perceived complexity.
-&lt;a href=&quot;https://github.blog/news-insights/company-news/addressing-githubs-recent-availability-issues/&quot;&gt;During major incidents in 2023&lt;/a&gt;, Github suffered database cluster failure that resulted in widespread GitHub Actions workflow failures. There is great possibility of it happening again soon. Having an available Jenkins CI/CD that will not be affected by big tech outages is very important.&lt;/p&gt;
+&lt;a href="https://github.blog/news-insights/company-news/addressing-githubs-recent-availability-issues/"&gt;During major incidents in 2023&lt;/a&gt;, Github suffered database cluster failure that resulted in widespread GitHub Actions workflow failures. There is great possibility of it happening again soon. Having an available Jenkins CI/CD that will not be affected by big tech outages is very important.&lt;/p&gt;
 </content>
   </entry>
   <entry>
     <title>Trending: Linux Ricing</title>
     <link href="https://randop.github.io/2025/04/27/trending-linux-ricing/" />
-    <updated>2025-04-27T22:23:00Z</updated>
+    <updated>2025-04-27T22:23:00.000Z</updated>
     <id>https://randop.github.io/2025/04/27/trending-linux-ricing/</id>
-    <content type="html">&lt;p&gt;I still remember back in 2009 where I&#39;m at the office on my former workplace installing &lt;a href=&quot;https://www.compiz-fusion.org/&quot;&gt;Compiz Fusion&lt;/a&gt; on my Fedora Linux workstation. It was really fun tweaking desktop. There is different kind of satisfaction to Linux ricing that Windows or Mac does not provide to this date.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://commons.wikimedia.org/wiki/File:Fedora-Core-6-AIGLX.png#/media/File:Fedora-Core-6-AIGLX.png&quot;&gt;&lt;img src=&quot;https://upload.wikimedia.org/wikipedia/commons/c/cb/Fedora-Core-6-AIGLX.png&quot; alt=&quot;Fedora-Core-6-AIGLX.png&quot; height=&quot;240&quot; width=&quot;320&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+    <summary>I still remember back in 2009 where I'm at the office on my former workplace installing Compiz Fusion on my Fedora Linux workstation. It was really fun tweaking desktop. There is different kind of…</summary>
+    <content type="html">&lt;p&gt;I still remember back in 2009 where I’m at the office on my former workplace installing &lt;a href="https://www.compiz-fusion.org/"&gt;Compiz Fusion&lt;/a&gt; on my Fedora Linux workstation. It was really fun tweaking desktop. There is different kind of satisfaction to Linux ricing that Windows or Mac does not provide to this date.&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://commons.wikimedia.org/wiki/File:Fedora-Core-6-AIGLX.png#/media/File:Fedora-Core-6-AIGLX.png"&gt;&lt;img src="https://upload.wikimedia.org/wikipedia/commons/c/cb/Fedora-Core-6-AIGLX.png" alt="Fedora-Core-6-AIGLX.png" height="240" width="320"&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Fast forward now in 2025, a popular youtuber have posted a viral video of Linux ricing experience.&lt;/p&gt;
-&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/pVI_smLgTY0&quot; title=&quot;YouTube:
-    I installed Linux (so should you) by @PewDiePie&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; referrerpolicy=&quot;strict-origin-when-cross-origin&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-&lt;p&gt;I got inspired to try setting up &lt;a href=&quot;https://dwm.suckless.org/&quot;&gt;dwm&lt;/a&gt; + &lt;a href=&quot;https://sw.kovidgoyal.net/kitty/&quot;&gt;kitty&lt;/a&gt; + &lt;a href=&quot;https://neovim.io/&quot;&gt;neovim&lt;/a&gt; with &lt;a href=&quot;https://www.lazyvim.org/&quot;&gt;LazyVim&lt;/a&gt; + &lt;a href=&quot;https://github.com/oh-my-fish/oh-my-fish&quot;&gt;Oh My Fish&lt;/a&gt;&lt;/p&gt;
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/pVI_smLgTY0" title="YouTube:
+    I installed Linux (so should you) by @PewDiePie" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;I got inspired to try setting up &lt;a href="https://dwm.suckless.org/"&gt;dwm&lt;/a&gt; + &lt;a href="https://sw.kovidgoyal.net/kitty/"&gt;kitty&lt;/a&gt; + &lt;a href="https://neovim.io/"&gt;neovim&lt;/a&gt; with &lt;a href="https://www.lazyvim.org/"&gt;LazyVim&lt;/a&gt; + &lt;a href="https://github.com/oh-my-fish/oh-my-fish"&gt;Oh My Fish&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Will post it here on my blog.&lt;/p&gt;
 </content>
   </entry>
   <entry>
     <title>Sanitizing Links</title>
     <link href="https://randop.github.io/2019/07/17/sanitizing-links/" />
-    <updated>2019-07-17T02:00:00Z</updated>
+    <updated>2019-07-17T02:00:00.000Z</updated>
     <id>https://randop.github.io/2019/07/17/sanitizing-links/</id>
+    <summary>Script to sanitize links on string. This can be useful when trying to format links from untrusted sources.</summary>
     <content type="html">&lt;p&gt;Script to sanitize links on string. This can be useful when trying to format links from untrusted sources.&lt;/p&gt;
-&lt;h4&gt;Requirements:&lt;/h4&gt;
+&lt;h4 id="requirements"&gt;Requirements:&lt;/h4&gt;
 &lt;ul&gt;
 &lt;li&gt;composer&lt;/li&gt;
 &lt;li&gt;php-xml&lt;/li&gt;
 &lt;li&gt;php-mbstring&lt;/li&gt;
 &lt;li&gt;ezyang/htmlpurifier&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h4&gt;Installation:&lt;/h4&gt;
-&lt;pre&gt;&lt;code&gt;composer require ezyang/htmlpurifier
-&lt;/code&gt;&lt;/pre&gt;
-&lt;h4&gt;Codes:&lt;/h4&gt;
-&lt;pre&gt;&lt;code class=&quot;language-php&quot;&gt;&amp;lt;?php
-function fix_special_links($text=&#39;&#39;) {
-    $fixed = $text;
-    $fixed = str_replace(&amp;quot;/&amp;gt;&amp;lt;br /&amp;gt;&amp;quot;, &amp;quot;/&amp;gt; &amp;lt;br&amp;gt;&amp;quot;, $fixed);
-    $fixed = str_replace(&amp;quot;/&amp;gt;&amp;lt;br&amp;gt;&amp;quot;, &amp;quot;/&amp;gt; &amp;lt;br&amp;gt;&amp;quot;, $fixed);
-    $fixed = preg_replace(&amp;quot;#&#92;&amp;lt;http:&#92;/&#92;/(.*)(&#92;/&#92;&amp;gt;)+#i&amp;quot;, &amp;quot;(http://$1)&amp;quot;, $fixed);
-    $fixed = preg_replace(&amp;quot;#&#92;&amp;lt;https:&#92;/&#92;/(.*)(&#92;/&#92;&amp;gt;)+#i&amp;quot;, &amp;quot;(https://$1)&amp;quot;, $fixed);
-    return $fixed;
-}
-function sanitize_links($text=&#39;&#39;) {
-    $text = $this-&amp;gt;fix_special_links($text);
-    $config = &#92;HTMLPurifier_Config::createDefault();
-    $purifier = new &#92;HTMLPurifier($config);
-    $text = $purifier-&amp;gt;purify($text);
-    $return = $text;
-    try {
-        libxml_use_internal_errors(true);
-        libxml_clear_errors();
-        $doc = new DOMDocument(&#39;1.0&#39;, &#39;UTF-8&#39;);
-        $doc-&amp;gt;preserveWhiteSpace = false;
-        $doc-&amp;gt;loadHTML( mb_convert_encoding($text, &#39;HTML-ENTITIES&#39;, &#39;UTF-8&#39;));
-        $links = $doc-&amp;gt;getElementsByTagName(&#39;a&#39;);
-        //Loop through each &amp;lt;a&amp;gt; tags and replace them by their text content
-        for ($i = $links-&amp;gt;length - 1; $i &amp;gt;= 0; $i--) {
-            $linkNode = $links-&amp;gt;item($i);
-            $lnkText = $linkNode-&amp;gt;textContent;
-            $newTxtNode = $doc-&amp;gt;createTextNode($lnkText);
-            $linkNode-&amp;gt;parentNode-&amp;gt;replaceChild($newTxtNode, $linkNode);
-        }
-        $return = $doc-&amp;gt;saveHTML($doc-&amp;gt;documentElement);
-        $return = str_replace( array(&#39;&amp;lt;html&amp;gt;&#39;, &#39;&amp;lt;/html&amp;gt;&#39;, &#39;&amp;lt;body&amp;gt;&#39;, &#39;&amp;lt;/body&amp;gt;&#39;), array(&#39;&#39;, &#39;&#39;, &#39;&#39;, &#39;&#39;), $return);
-    } catch (Exception $e) {
-        //fallback on using preg_replace
-        $return = preg_replace(&#39;#&amp;lt;a.*?&amp;gt;([^&amp;gt;]*)&amp;lt;/a&amp;gt;#i&#39;, &#39;$1&#39;, $text);
-    }
-    $return = str_replace(&amp;quot;&amp;gt;&#92;n&amp;lt;&amp;quot;, &amp;quot;&amp;gt;&amp;lt;&amp;quot;, $return);
-    $return = str_replace(&amp;quot;&amp;gt;&#92;r&amp;lt;&amp;quot;, &amp;quot;&amp;gt;&amp;lt;&amp;quot;, $return);
-    return $return;
-}
-function sanitize_string($string=&#39;&#39;) {
-    $string = iconv(&amp;quot;Windows-1251&amp;quot;, &amp;quot;UTF-8&amp;quot;, $string);
-    $string = preg_replace(&#39;/[&#92;x{2019}&#92;x{2018}&#92;x{2019}&#92;x{201A}&#92;x{201B}&#92;x{2032}&#92;x{2035}]/u&#39;, &amp;quot;&#39;&amp;quot;, $string);
-    $string = preg_replace(&#39;/[&#92;x{201C}&#92;x{201D}&#92;x{201E}&#92;x{201F}&#92;x{2033}&#92;x{2036}]/u&#39;, &#39;&amp;quot;&#39;, $string);
-    $string = preg_replace(&#39;/[[:^print:]]/&#39;, &amp;quot;&amp;quot;, $string);
-    return $string;
-}
-&lt;/code&gt;&lt;/pre&gt;
-&lt;h4&gt;Usage:&lt;/h4&gt;
-&lt;pre&gt;&lt;code class=&quot;language-php&quot;&gt;$string = &amp;quot;String with links &amp;lt;a href=&#39;https://randolphledesma.com&#39;&amp;gt;https://randolphledesma.com&amp;lt;/a&amp;gt;&amp;quot;;
-echo sanitize_links($string);
-&lt;/code&gt;&lt;/pre&gt;
+&lt;h4 id="installation"&gt;Installation:&lt;/h4&gt;
+&lt;pre class="astro-code astro-code-themes github-light github-dark" style="--shiki-light:#24292e;--shiki-dark:#e1e4e8;--shiki-light-bg:#fff;--shiki-dark-bg:#24292e; overflow-x: auto; white-space: pre-wrap; word-wrap: break-word;" tabindex="0" data-language="plaintext"&gt;&lt;code&gt;&lt;span class="line"&gt;&lt;span&gt;composer require ezyang/htmlpurifier&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;
+&lt;h4 id="codes"&gt;Codes:&lt;/h4&gt;
+&lt;pre class="astro-code astro-code-themes github-light github-dark" style="--shiki-light:#24292e;--shiki-dark:#e1e4e8;--shiki-light-bg:#fff;--shiki-dark-bg:#24292e; overflow-x: auto; white-space: pre-wrap; word-wrap: break-word;" tabindex="0" data-language="php"&gt;&lt;code&gt;&lt;span class="line"&gt;&lt;span style="--shiki-light:#D73A49;--shiki-dark:#F97583"&gt;&amp;lt;?&lt;/span&gt;&lt;span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"&gt;php&lt;/span&gt;&lt;/span&gt;
+&lt;span class="line"&gt;&lt;span style="--shiki-light:#D73A49;--shiki-dark:#F97583"&gt;function&lt;/span&gt;&lt;span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0"&gt; fix_special_links&lt;/span&gt;&lt;span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"&gt;($text&lt;/span&gt;&lt;span style="--shiki-light:#D73A49;--shiki-dark:#F97583"&gt;=&lt;/span&gt;&lt;span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF"&gt;''&lt;/span&gt;&lt;span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"&gt;) {&lt;/span&gt;&lt;/span&gt;
+&lt;span class="line"&gt;&lt;span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"&gt;    $fixed &lt;/span&gt;&lt;span style="--shiki-light:#D73A49;--shiki-dark:#F97583"&gt;=&lt;/span&gt;&lt;span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"&gt; $text;&lt;/span&gt;&lt;/span&gt;
+&lt;span class="line"&gt;&lt;span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"&gt;    $fixed &lt;/span&gt;&lt;span style="--shiki-light:#D73A49;--shiki-dark:#F97583"&gt;=&lt;/span&gt;&lt;span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"&gt; str_replace&lt;/span&gt;&lt;span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"&gt;(&lt;/span&gt;&lt;span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF"&gt;"/&amp;gt;&amp;lt;br /&amp;gt;"&lt;/span&gt;&lt;span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"&gt;, &lt;/span&gt;&lt;span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF"&gt;"/&amp;gt; &amp;lt;br&amp;gt;"&lt;/span&gt;&lt;span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"&gt;, $fixed);&lt;/span&gt;&lt;/span&gt;
+&lt;span class="line"&gt;&lt;span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"&gt;    $fixed &lt;/span&gt;&lt;span style="--shiki-light:#D73A49;--shiki-dark:#F97583"&gt;=&lt;/span&gt;&lt;span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"&gt; str_replace&lt;/span&gt;&lt;span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"&gt;(&lt;/span&gt;&lt;span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF"&gt;"/&amp;gt;&amp;lt;br&amp;gt;"&lt;/span&gt;&lt;span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"&gt;, &lt;/span&gt;&lt;span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF"&gt;"/&amp;gt; &amp;lt;br&amp;gt;"&lt;/span&gt;&lt;span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"&gt;, $fixed);&lt;/span&gt;&lt;/span&gt;
+&lt;span class="line"&gt;&lt;span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"&gt;    $fixed &lt;/span&gt;&lt;span style="--shiki-light:#D73A49;--shiki-dark:#F97583"&gt;=&lt;/span&gt;&lt;span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"&gt; preg_replace&lt;/span&gt;&lt;span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"&gt;(&lt;/span&gt;&lt;span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF"&gt;"#\&amp;lt;http:\/\/(.*)(\/\&amp;gt;)+#i"&lt;/span&gt;&lt;span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"&gt;, &lt;/span&gt;&lt;span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF"&gt;"(http://$1)"&lt;/span&gt;&lt;span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"&gt;, $fixed);&lt;/span&gt;&lt;/span&gt;
+&lt;span class="line"&gt;&lt;span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"&gt;    $fixed &lt;/span&gt;&lt;span style="--shiki-light:#D73A49;--shiki-dark:#F97583"&gt;=&lt;/span&gt;&lt;span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"&gt; preg_replace&lt;/span&gt;&lt;span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"&gt;(&lt;/span&gt;&lt;span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF"&gt;"#\&amp;lt;https:\/\/(.*)(\/\&amp;gt;)+#i"&lt;/span&gt;&lt;span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"&gt;, &lt;/span&gt;&lt;span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF"&gt;"(https://$1)"&lt;/span&gt;&lt;span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"&gt;, $fixed);&lt;/span&gt;&lt;/span&gt;
+&lt;span class="line"&gt;&lt;span style="--shiki-light:#D73A49;--shiki-dark:#F97583"&gt;    return&lt;/span&gt;&lt;span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"&gt; $fixed;&lt;/span&gt;&lt;/span&gt;
+&lt;span class="line"&gt;&lt;span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"&gt;}&lt;/span&gt;&lt;/span&gt;
+&lt;span class="line"&gt;&lt;span style="--shiki-light:#D73A49;--shiki-dark:#F97583"&gt;function&lt;/span&gt;&lt;span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0"&gt; sanitize_links&lt;/span&gt;&lt;span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"&gt;($text&lt;/span&gt;&lt;span style="--shiki-light:#D73A49;--shiki-dark:#F97583"&gt;=&lt;/span&gt;&lt;span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF"&gt;''&lt;/span&gt;&lt;span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"&gt;) {&lt;/span&gt;&lt;/span&gt;
+&lt;span class="line"&gt;&lt;span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"&gt;    $text &lt;/span&gt;&lt;span style="--shiki-light:#D73A49;--shiki-dark:#F97583"&gt;=&lt;/span&gt;&lt;span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"&gt; $this&lt;/span&gt;&lt;span style="--shiki-light:#D73A49;--shiki-dark:#F97583"&gt;-&amp;gt;&lt;/span&gt;&lt;span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0"&gt;fix_special_links&lt;/span&gt;&lt;span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"&gt;($text);&lt;/span&gt;&lt;/span&gt;
+&lt;span class="line"&gt;&lt;span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"&gt;    $config &lt;/span&gt;&lt;span style="--shiki-light:#D73A49;--shiki-dark:#F97583"&gt;=&lt;/span&gt;&lt;span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"&gt; \HTMLPurifier_Config&lt;/span&gt;&lt;span style="--shiki-light:#D73A49;--shiki-dark:#F97583"&gt;::&lt;/span&gt;&lt;span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0"&gt;createDefault&lt;/span&gt;&lt;span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"&gt;();&lt;/span&gt;&lt;/span&gt;
+&lt;span class="line"&gt;&lt;span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"&gt;    $purifier &lt;/span&gt;&lt;span style="--shiki-light:#D73A49;--shiki-dark:#F97583"&gt;=&lt;/span&gt;&lt;span style="--shiki-light:#D73A49;--shiki-dark:#F97583"&gt; new&lt;/span&gt;&lt;span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"&gt; \HTMLPurifier&lt;/span&gt;&lt;span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"&gt;($config);&lt;/span&gt;&lt;/span&gt;
+&lt;span class="line"&gt;&lt;span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"&gt;    $text &lt;/span&gt;&lt;span style="--shiki-light:#D73A49;--shiki-dark:#F97583"&gt;=&lt;/span&gt;&lt;span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"&gt; $purifier&lt;/span&gt;&lt;span style="--shiki-light:#D73A49;--shiki-dark:#F97583"&gt;-&amp;gt;&lt;/span&gt;&lt;span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0"&gt;purify&lt;/span&gt;&lt;span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"&gt;($text);&lt;/span&gt;&lt;/span&gt;
+&lt;span class="line"&gt;&lt;span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"&gt;    $return &lt;/span&gt;&lt;span style="--shiki-light:#D73A49;--shiki-dark:#F97583"&gt;=&lt;/span&gt;&lt;span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"&gt; $text;&lt;/span&gt;&lt;/span&gt;
+&lt;span class="line"&gt;&lt;span style="--shiki-light:#D73A49;--shiki-dark:#F97583"&gt;    try&lt;/span&gt;&lt;span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"&gt; {&lt;/span&gt;&lt;/span&gt;
+&lt;span class="line"&gt;&lt;span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"&gt;        libxml_use_internal_errors&lt;/span&gt;&lt;span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"&gt;(&lt;/span&gt;&lt;span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"&gt;true&lt;/span&gt;&lt;span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"&gt;);&lt;/span&gt;&lt;/span&gt;
+&lt;span class="line"&gt;&lt;span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"&gt;        libxml_clear_errors&lt;/span&gt;&lt;span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"&gt;();&lt;/span&gt;&lt;/span&gt;
+&lt;span class="line"&gt;&lt;span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"&gt;        $doc &lt;/span&gt;&lt;span style="--shiki-light:#D73A49;--shiki-dark:#F97583"&gt;=&lt;/span&gt;&lt;span style="--shiki-light:#D73A49;--shiki-dark:#F97583"&gt; new&lt;/span&gt;&lt;span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"&gt; DOMDocument&lt;/span&gt;&lt;span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"&gt;(&lt;/span&gt;&lt;span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF"&gt;'1.0'&lt;/span&gt;&lt;span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"&gt;, &lt;/span&gt;&lt;span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF"&gt;'UTF-8'&lt;/span&gt;&lt;span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"&gt;);&lt;/span&gt;&lt;/span&gt;
+&lt;span class="line"&gt;&lt;span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"&gt;        $doc&lt;/span&gt;&lt;span style="--shiki-light:#D73A49;--shiki-dark:#F97583"&gt;-&amp;gt;&lt;/span&gt;&lt;span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"&gt;preserveWhiteSpace &lt;/span&gt;&lt;span style="--shiki-light:#D73A49;--shiki-dark:#F97583"&gt;=&lt;/span&gt;&lt;span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"&gt; false&lt;/span&gt;&lt;span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"&gt;;&lt;/span&gt;&lt;/span&gt;
+&lt;span class="line"&gt;&lt;span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"&gt;        $doc&lt;/span&gt;&lt;span style="--shiki-light:#D73A49;--shiki-dark:#F97583"&gt;-&amp;gt;&lt;/span&gt;&lt;span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0"&gt;loadHTML&lt;/span&gt;&lt;span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"&gt;( &lt;/span&gt;&lt;span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"&gt;mb_convert_encoding&lt;/span&gt;&lt;span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"&gt;($text, &lt;/span&gt;&lt;span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF"&gt;'HTML-ENTITIES'&lt;/span&gt;&lt;span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"&gt;, &lt;/span&gt;&lt;span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF"&gt;'UTF-8'&lt;/span&gt;&lt;span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"&gt;));&lt;/span&gt;&lt;/span&gt;
+&lt;span class="line"&gt;&lt;span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"&gt;        $links &lt;/span&gt;&lt;span style="--shiki-light:#D73A49;--shiki-dark:#F97583"&gt;=&lt;/span&gt;&lt;span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"&gt; $doc&lt;/span&gt;&lt;span style="--shiki-light:#D73A49;--shiki-dark:#F97583"&gt;-&amp;gt;&lt;/span&gt;&lt;span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0"&gt;getElementsByTagName&lt;/span&gt;&lt;span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"&gt;(&lt;/span&gt;&lt;span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF"&gt;'a'&lt;/span&gt;&lt;span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"&gt;);&lt;/span&gt;&lt;/span&gt;
+&lt;span class="line"&gt;&lt;span style="--shiki-light:#6A737D;--shiki-dark:#6A737D"&gt;        //Loop through each &amp;lt;a&amp;gt; tags and replace them by their text content&lt;/span&gt;&lt;/span&gt;
+&lt;span class="line"&gt;&lt;span style="--shiki-light:#D73A49;--shiki-dark:#F97583"&gt;        for&lt;/span&gt;&lt;span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"&gt; ($i &lt;/span&gt;&lt;span style="--shiki-light:#D73A49;--shiki-dark:#F97583"&gt;=&lt;/span&gt;&lt;span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"&gt; $links&lt;/span&gt;&lt;span style="--shiki-light:#D73A49;--shiki-dark:#F97583"&gt;-&amp;gt;&lt;/span&gt;&lt;span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"&gt;length &lt;/span&gt;&lt;span style="--shiki-light:#D73A49;--shiki-dark:#F97583"&gt;-&lt;/span&gt;&lt;span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"&gt; 1&lt;/span&gt;&lt;span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"&gt;; $i &lt;/span&gt;&lt;span style="--shiki-light:#D73A49;--shiki-dark:#F97583"&gt;&amp;gt;=&lt;/span&gt;&lt;span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"&gt; 0&lt;/span&gt;&lt;span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"&gt;; $i&lt;/span&gt;&lt;span style="--shiki-light:#D73A49;--shiki-dark:#F97583"&gt;--&lt;/span&gt;&lt;span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"&gt;) {&lt;/span&gt;&lt;/span&gt;
+&lt;span class="line"&gt;&lt;span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"&gt;            $linkNode &lt;/span&gt;&lt;span style="--shiki-light:#D73A49;--shiki-dark:#F97583"&gt;=&lt;/span&gt;&lt;span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"&gt; $links&lt;/span&gt;&lt;span style="--shiki-light:#D73A49;--shiki-dark:#F97583"&gt;-&amp;gt;&lt;/span&gt;&lt;span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0"&gt;item&lt;/span&gt;&lt;span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"&gt;($i);&lt;/span&gt;&lt;/span&gt;
+&lt;span class="line"&gt;&lt;span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"&gt;            $lnkText &lt;/span&gt;&lt;span style="--shiki-light:#D73A49;--shiki-dark:#F97583"&gt;=&lt;/span&gt;&lt;span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"&gt; $linkNode&lt;/span&gt;&lt;span style="--shiki-light:#D73A49;--shiki-dark:#F97583"&gt;-&amp;gt;&lt;/span&gt;&lt;span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"&gt;textContent;&lt;/span&gt;&lt;/span&gt;
+&lt;span class="line"&gt;&lt;span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"&gt;            $newTxtNode &lt;/span&gt;&lt;span style="--shiki-light:#D73A49;--shiki-dark:#F97583"&gt;=&lt;/span&gt;&lt;span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"&gt; $doc&lt;/span&gt;&lt;span style="--shiki-light:#D73A49;--shiki-dark:#F97583"&gt;-&amp;gt;&lt;/span&gt;&lt;span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0"&gt;createTextNode&lt;/span&gt;&lt;span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"&gt;($lnkText);&lt;/span&gt;&lt;/span&gt;
+&lt;span class="line"&gt;&lt;span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"&gt;            $linkNode&lt;/span&gt;&lt;span style="--shiki-light:#D73A49;--shiki-dark:#F97583"&gt;-&amp;gt;&lt;/span&gt;&lt;span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"&gt;parentNode&lt;/span&gt;&lt;span style="--shiki-light:#D73A49;--shiki-dark:#F97583"&gt;-&amp;gt;&lt;/span&gt;&lt;span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0"&gt;replaceChild&lt;/span&gt;&lt;span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"&gt;($newTxtNode, $linkNode);&lt;/span&gt;&lt;/span&gt;
+&lt;span class="line"&gt;&lt;span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"&gt;        }&lt;/span&gt;&lt;/span&gt;
+&lt;span class="line"&gt;&lt;span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"&gt;        $return &lt;/span&gt;&lt;span style="--shiki-light:#D73A49;--shiki-dark:#F97583"&gt;=&lt;/span&gt;&lt;span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"&gt; $doc&lt;/span&gt;&lt;span style="--shiki-light:#D73A49;--shiki-dark:#F97583"&gt;-&amp;gt;&lt;/span&gt;&lt;span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0"&gt;saveHTML&lt;/span&gt;&lt;span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"&gt;($doc&lt;/span&gt;&lt;span style="--shiki-light:#D73A49;--shiki-dark:#F97583"&gt;-&amp;gt;&lt;/span&gt;&lt;span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"&gt;documentElement);&lt;/span&gt;&lt;/span&gt;
+&lt;span class="line"&gt;&lt;span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"&gt;        $return &lt;/span&gt;&lt;span style="--shiki-light:#D73A49;--shiki-dark:#F97583"&gt;=&lt;/span&gt;&lt;span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"&gt; str_replace&lt;/span&gt;&lt;span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"&gt;( &lt;/span&gt;&lt;span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"&gt;array&lt;/span&gt;&lt;span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"&gt;(&lt;/span&gt;&lt;span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF"&gt;'&amp;lt;html&amp;gt;'&lt;/span&gt;&lt;span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"&gt;, &lt;/span&gt;&lt;span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF"&gt;'&amp;lt;/html&amp;gt;'&lt;/span&gt;&lt;span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"&gt;, &lt;/span&gt;&lt;span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF"&gt;'&amp;lt;body&amp;gt;'&lt;/span&gt;&lt;span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"&gt;, &lt;/span&gt;&lt;span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF"&gt;'&amp;lt;/body&amp;gt;'&lt;/span&gt;&lt;span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"&gt;), &lt;/span&gt;&lt;span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"&gt;array&lt;/span&gt;&lt;span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"&gt;(&lt;/span&gt;&lt;span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF"&gt;''&lt;/span&gt;&lt;span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"&gt;, &lt;/span&gt;&lt;span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF"&gt;''&lt;/span&gt;&lt;span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"&gt;, &lt;/span&gt;&lt;span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF"&gt;''&lt;/span&gt;&lt;span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"&gt;, &lt;/span&gt;&lt;span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF"&gt;''&lt;/span&gt;&lt;span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"&gt;), $return);&lt;/span&gt;&lt;/span&gt;
+&lt;span class="line"&gt;&lt;span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"&gt;    } &lt;/span&gt;&lt;span style="--shiki-light:#D73A49;--shiki-dark:#F97583"&gt;catch&lt;/span&gt;&lt;span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"&gt; (&lt;/span&gt;&lt;span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"&gt;Exception&lt;/span&gt;&lt;span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"&gt; $e) {&lt;/span&gt;&lt;/span&gt;
+&lt;span class="line"&gt;&lt;span style="--shiki-light:#6A737D;--shiki-dark:#6A737D"&gt;        //fallback on using preg_replace&lt;/span&gt;&lt;/span&gt;
+&lt;span class="line"&gt;&lt;span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"&gt;        $return &lt;/span&gt;&lt;span style="--shiki-light:#D73A49;--shiki-dark:#F97583"&gt;=&lt;/span&gt;&lt;span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"&gt; preg_replace&lt;/span&gt;&lt;span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"&gt;(&lt;/span&gt;&lt;span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF"&gt;'#&amp;lt;a.*?&amp;gt;([^&amp;gt;]*)&amp;lt;/a&amp;gt;#i'&lt;/span&gt;&lt;span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"&gt;, &lt;/span&gt;&lt;span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF"&gt;'$1'&lt;/span&gt;&lt;span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"&gt;, $text);&lt;/span&gt;&lt;/span&gt;
+&lt;span class="line"&gt;&lt;span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"&gt;    }&lt;/span&gt;&lt;/span&gt;
+&lt;span class="line"&gt;&lt;span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"&gt;    $return &lt;/span&gt;&lt;span style="--shiki-light:#D73A49;--shiki-dark:#F97583"&gt;=&lt;/span&gt;&lt;span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"&gt; str_replace&lt;/span&gt;&lt;span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"&gt;(&lt;/span&gt;&lt;span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF"&gt;"&amp;gt;&lt;/span&gt;&lt;span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"&gt;\n&lt;/span&gt;&lt;span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF"&gt;&amp;lt;"&lt;/span&gt;&lt;span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"&gt;, &lt;/span&gt;&lt;span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF"&gt;"&amp;gt;&amp;lt;"&lt;/span&gt;&lt;span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"&gt;, $return);&lt;/span&gt;&lt;/span&gt;
+&lt;span class="line"&gt;&lt;span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"&gt;    $return &lt;/span&gt;&lt;span style="--shiki-light:#D73A49;--shiki-dark:#F97583"&gt;=&lt;/span&gt;&lt;span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"&gt; str_replace&lt;/span&gt;&lt;span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"&gt;(&lt;/span&gt;&lt;span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF"&gt;"&amp;gt;&lt;/span&gt;&lt;span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"&gt;\r&lt;/span&gt;&lt;span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF"&gt;&amp;lt;"&lt;/span&gt;&lt;span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"&gt;, &lt;/span&gt;&lt;span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF"&gt;"&amp;gt;&amp;lt;"&lt;/span&gt;&lt;span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"&gt;, $return);&lt;/span&gt;&lt;/span&gt;
+&lt;span class="line"&gt;&lt;span style="--shiki-light:#D73A49;--shiki-dark:#F97583"&gt;    return&lt;/span&gt;&lt;span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"&gt; $return;&lt;/span&gt;&lt;/span&gt;
+&lt;span class="line"&gt;&lt;span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"&gt;}&lt;/span&gt;&lt;/span&gt;
+&lt;span class="line"&gt;&lt;span style="--shiki-light:#D73A49;--shiki-dark:#F97583"&gt;function&lt;/span&gt;&lt;span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0"&gt; sanitize_string&lt;/span&gt;&lt;span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"&gt;($string&lt;/span&gt;&lt;span style="--shiki-light:#D73A49;--shiki-dark:#F97583"&gt;=&lt;/span&gt;&lt;span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF"&gt;''&lt;/span&gt;&lt;span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"&gt;) {&lt;/span&gt;&lt;/span&gt;
+&lt;span class="line"&gt;&lt;span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"&gt;    $string &lt;/span&gt;&lt;span style="--shiki-light:#D73A49;--shiki-dark:#F97583"&gt;=&lt;/span&gt;&lt;span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"&gt; iconv&lt;/span&gt;&lt;span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"&gt;(&lt;/span&gt;&lt;span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF"&gt;"Windows-1251"&lt;/span&gt;&lt;span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"&gt;, &lt;/span&gt;&lt;span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF"&gt;"UTF-8"&lt;/span&gt;&lt;span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"&gt;, $string);&lt;/span&gt;&lt;/span&gt;
+&lt;span class="line"&gt;&lt;span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"&gt;    $string &lt;/span&gt;&lt;span style="--shiki-light:#D73A49;--shiki-dark:#F97583"&gt;=&lt;/span&gt;&lt;span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"&gt; preg_replace&lt;/span&gt;&lt;span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"&gt;(&lt;/span&gt;&lt;span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF"&gt;'/&lt;/span&gt;&lt;span style="--shiki-light:#032F62;--shiki-dark:#DBEDFF"&gt;[\x{2019}\x{2018}\x{2019}\x{201A}\x{201B}\x{2032}\x{2035}]&lt;/span&gt;&lt;span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF"&gt;/u'&lt;/span&gt;&lt;span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"&gt;, &lt;/span&gt;&lt;span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF"&gt;"'"&lt;/span&gt;&lt;span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"&gt;, $string);&lt;/span&gt;&lt;/span&gt;
+&lt;span class="line"&gt;&lt;span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"&gt;    $string &lt;/span&gt;&lt;span style="--shiki-light:#D73A49;--shiki-dark:#F97583"&gt;=&lt;/span&gt;&lt;span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"&gt; preg_replace&lt;/span&gt;&lt;span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"&gt;(&lt;/span&gt;&lt;span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF"&gt;'/&lt;/span&gt;&lt;span style="--shiki-light:#032F62;--shiki-dark:#DBEDFF"&gt;[\x{201C}\x{201D}\x{201E}\x{201F}\x{2033}\x{2036}]&lt;/span&gt;&lt;span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF"&gt;/u'&lt;/span&gt;&lt;span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"&gt;, &lt;/span&gt;&lt;span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF"&gt;'"'&lt;/span&gt;&lt;span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"&gt;, $string);&lt;/span&gt;&lt;/span&gt;
+&lt;span class="line"&gt;&lt;span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"&gt;    $string &lt;/span&gt;&lt;span style="--shiki-light:#D73A49;--shiki-dark:#F97583"&gt;=&lt;/span&gt;&lt;span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"&gt; preg_replace&lt;/span&gt;&lt;span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"&gt;(&lt;/span&gt;&lt;span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF"&gt;'/&lt;/span&gt;&lt;span style="--shiki-light:#032F62;--shiki-dark:#DBEDFF"&gt;[[:^print:]]&lt;/span&gt;&lt;span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF"&gt;/'&lt;/span&gt;&lt;span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"&gt;, &lt;/span&gt;&lt;span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF"&gt;""&lt;/span&gt;&lt;span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"&gt;, $string);&lt;/span&gt;&lt;/span&gt;
+&lt;span class="line"&gt;&lt;span style="--shiki-light:#D73A49;--shiki-dark:#F97583"&gt;    return&lt;/span&gt;&lt;span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"&gt; $string;&lt;/span&gt;&lt;/span&gt;
+&lt;span class="line"&gt;&lt;span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"&gt;}&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;
+&lt;h4 id="usage"&gt;Usage:&lt;/h4&gt;
+&lt;pre class="astro-code astro-code-themes github-light github-dark" style="--shiki-light:#24292e;--shiki-dark:#e1e4e8;--shiki-light-bg:#fff;--shiki-dark-bg:#24292e; overflow-x: auto; white-space: pre-wrap; word-wrap: break-word;" tabindex="0" data-language="php"&gt;&lt;code&gt;&lt;span class="line"&gt;&lt;span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"&gt;$string &lt;/span&gt;&lt;span style="--shiki-light:#D73A49;--shiki-dark:#F97583"&gt;=&lt;/span&gt;&lt;span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF"&gt; "String with links &amp;lt;a href='https://randolphledesma.com'&amp;gt;https://randolphledesma.com&amp;lt;/a&amp;gt;"&lt;/span&gt;&lt;span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"&gt;;&lt;/span&gt;&lt;/span&gt;
+&lt;span class="line"&gt;&lt;span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"&gt;echo&lt;/span&gt;&lt;span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0"&gt; sanitize_links&lt;/span&gt;&lt;span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"&gt;($string);&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;
 </content>
   </entry>
   <entry>
     <title>Timezone Conversion</title>
     <link href="https://randop.github.io/2019/05/16/timezone-conversion/" />
-    <updated>2019-05-16T02:00:00Z</updated>
+    <updated>2019-05-16T02:00:00.000Z</updated>
     <id>https://randop.github.io/2019/05/16/timezone-conversion/</id>
+    <summary>Converting a timestamp from and to a different timezones.</summary>
     <content type="html">&lt;p&gt;Converting a timestamp from and to a different timezones.&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;&amp;lt;?php
-$timestamp=&#39;2019-05-16 07:56:00&#39;;
-$format=&amp;quot;Y-m-d H:i:s&amp;quot;;
-$from_timezone=&#39;Asia/Manila&#39;;
-$to_timezone=&#39;America/Chicago&#39;;
-$source_timezone = new DateTimeZone($from_timezone);
-$destination_timezone = new DateTimeZone($to_timezone);
-$datetime = new DateTime($timestamp, $source_timezone);
-$offset = $destination_timezone-&amp;gt;getOffset($datetime);
-$newdate = date($format, $datetime-&amp;gt;format(&#39;U&#39;) + $offset);
-echo $newdate;
-&lt;/code&gt;&lt;/pre&gt;
+&lt;pre class="astro-code astro-code-themes github-light github-dark" style="--shiki-light:#24292e;--shiki-dark:#e1e4e8;--shiki-light-bg:#fff;--shiki-dark-bg:#24292e; overflow-x: auto; white-space: pre-wrap; word-wrap: break-word;" tabindex="0" data-language="plaintext"&gt;&lt;code&gt;&lt;span class="line"&gt;&lt;span&gt;&amp;lt;?php&lt;/span&gt;&lt;/span&gt;
+&lt;span class="line"&gt;&lt;span&gt;$timestamp='2019-05-16 07:56:00';&lt;/span&gt;&lt;/span&gt;
+&lt;span class="line"&gt;&lt;span&gt;$format="Y-m-d H:i:s";&lt;/span&gt;&lt;/span&gt;
+&lt;span class="line"&gt;&lt;span&gt;$from_timezone='Asia/Manila';&lt;/span&gt;&lt;/span&gt;
+&lt;span class="line"&gt;&lt;span&gt;$to_timezone='America/Chicago';&lt;/span&gt;&lt;/span&gt;
+&lt;span class="line"&gt;&lt;span&gt;$source_timezone = new DateTimeZone($from_timezone);&lt;/span&gt;&lt;/span&gt;
+&lt;span class="line"&gt;&lt;span&gt;$destination_timezone = new DateTimeZone($to_timezone);&lt;/span&gt;&lt;/span&gt;
+&lt;span class="line"&gt;&lt;span&gt;$datetime = new DateTime($timestamp, $source_timezone);&lt;/span&gt;&lt;/span&gt;
+&lt;span class="line"&gt;&lt;span&gt;$offset = $destination_timezone-&amp;gt;getOffset($datetime);&lt;/span&gt;&lt;/span&gt;
+&lt;span class="line"&gt;&lt;span&gt;$newdate = date($format, $datetime-&amp;gt;format('U') + $offset);&lt;/span&gt;&lt;/span&gt;
+&lt;span class="line"&gt;&lt;span&gt;echo $newdate;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;
 </content>
   </entry>
   <entry>
     <title>Using Reflection to access protected properties in PHP</title>
     <link href="https://randop.github.io/2019/04/15/using-reflection-to-access-protected-properties-in-php/" />
-    <updated>2019-04-15T02:00:00Z</updated>
+    <updated>2019-04-15T02:00:00.000Z</updated>
     <id>https://randop.github.io/2019/04/15/using-reflection-to-access-protected-properties-in-php/</id>
+    <summary>Here is how to access protected class properties. Reflection is generally a method for inspecting classes and modify its logic at execution time.</summary>
     <content type="html">&lt;p&gt;Here is how to access protected class properties. Reflection is generally a method for   inspecting classes and modify its logic at execution time.&lt;/p&gt;
-&lt;pre&gt;&lt;code class=&quot;language-php&quot;&gt;&amp;lt;?php
-$class = new ReflectionClass($classInstance);
-$property = $class-&amp;gt;getProperty(&amp;quot;properties&amp;quot;);
-$property-&amp;gt;setAccessible(true);
-$properties = $property-&amp;gt;getValue($number);
-&lt;/code&gt;&lt;/pre&gt;
+&lt;pre class="astro-code astro-code-themes github-light github-dark" style="--shiki-light:#24292e;--shiki-dark:#e1e4e8;--shiki-light-bg:#fff;--shiki-dark-bg:#24292e; overflow-x: auto; white-space: pre-wrap; word-wrap: break-word;" tabindex="0" data-language="php"&gt;&lt;code&gt;&lt;span class="line"&gt;&lt;span style="--shiki-light:#D73A49;--shiki-dark:#F97583"&gt;&amp;lt;?&lt;/span&gt;&lt;span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"&gt;php&lt;/span&gt;&lt;/span&gt;
+&lt;span class="line"&gt;&lt;span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"&gt;$class &lt;/span&gt;&lt;span style="--shiki-light:#D73A49;--shiki-dark:#F97583"&gt;=&lt;/span&gt;&lt;span style="--shiki-light:#D73A49;--shiki-dark:#F97583"&gt; new&lt;/span&gt;&lt;span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"&gt; ReflectionClass&lt;/span&gt;&lt;span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"&gt;($classInstance);&lt;/span&gt;&lt;/span&gt;
+&lt;span class="line"&gt;&lt;span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"&gt;$property &lt;/span&gt;&lt;span style="--shiki-light:#D73A49;--shiki-dark:#F97583"&gt;=&lt;/span&gt;&lt;span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"&gt; $class&lt;/span&gt;&lt;span style="--shiki-light:#D73A49;--shiki-dark:#F97583"&gt;-&amp;gt;&lt;/span&gt;&lt;span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0"&gt;getProperty&lt;/span&gt;&lt;span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"&gt;(&lt;/span&gt;&lt;span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF"&gt;"properties"&lt;/span&gt;&lt;span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"&gt;);&lt;/span&gt;&lt;/span&gt;
+&lt;span class="line"&gt;&lt;span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"&gt;$property&lt;/span&gt;&lt;span style="--shiki-light:#D73A49;--shiki-dark:#F97583"&gt;-&amp;gt;&lt;/span&gt;&lt;span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0"&gt;setAccessible&lt;/span&gt;&lt;span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"&gt;(&lt;/span&gt;&lt;span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"&gt;true&lt;/span&gt;&lt;span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"&gt;);&lt;/span&gt;&lt;/span&gt;
+&lt;span class="line"&gt;&lt;span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"&gt;$properties &lt;/span&gt;&lt;span style="--shiki-light:#D73A49;--shiki-dark:#F97583"&gt;=&lt;/span&gt;&lt;span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"&gt; $property&lt;/span&gt;&lt;span style="--shiki-light:#D73A49;--shiki-dark:#F97583"&gt;-&amp;gt;&lt;/span&gt;&lt;span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0"&gt;getValue&lt;/span&gt;&lt;span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"&gt;($number);&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;
 </content>
   </entry>
   <entry>
     <title>Embed a &lt;video&gt; in responsive way</title>
     <link href="https://randop.github.io/2019/02/05/embed-a-video-in-responsive-way/" />
-    <updated>2019-02-05T02:00:00Z</updated>
+    <updated>2019-02-05T02:00:00.000Z</updated>
     <id>https://randop.github.io/2019/02/05/embed-a-video-in-responsive-way/</id>
+    <summary>This is how to embed a video on a page and make it responsive.</summary>
     <content type="html">&lt;p&gt;This is how to embed a video on a page and make it responsive.&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;&amp;lt;style type=&amp;quot;text/css&amp;quot;&amp;gt;
-.video-responsive{
-    overflow:hidden;
-    padding-bottom:56.25%;
-    position:relative;
-    height:0;
-}
-.video-responsive iframe{
-    left:0;
-    top:0;
-    height:100%;
-    width:100%;
-    position:absolute;
-}
-&amp;lt;/style&amp;gt;
-
-&amp;lt;div class=&amp;quot;video-responsive&amp;quot;&amp;gt;
-    &amp;lt;iframe src=&amp;quot;https://www.youtube.com/embed/XXXXX&amp;quot; 
-        frameborder=&amp;quot;0&amp;quot; 
-        width=&amp;quot;970&amp;quot; height=&amp;quot;548&amp;quot;&amp;gt;&amp;lt;/iframe&amp;gt;
-&amp;lt;/div&amp;gt;
-&lt;/code&gt;&lt;/pre&gt;
+&lt;pre class="astro-code astro-code-themes github-light github-dark" style="--shiki-light:#24292e;--shiki-dark:#e1e4e8;--shiki-light-bg:#fff;--shiki-dark-bg:#24292e; overflow-x: auto; white-space: pre-wrap; word-wrap: break-word;" tabindex="0" data-language="plaintext"&gt;&lt;code&gt;&lt;span class="line"&gt;&lt;span&gt;&amp;lt;style type="text/css"&amp;gt;&lt;/span&gt;&lt;/span&gt;
+&lt;span class="line"&gt;&lt;span&gt;.video-responsive{&lt;/span&gt;&lt;/span&gt;
+&lt;span class="line"&gt;&lt;span&gt;    overflow:hidden;&lt;/span&gt;&lt;/span&gt;
+&lt;span class="line"&gt;&lt;span&gt;    padding-bottom:56.25%;&lt;/span&gt;&lt;/span&gt;
+&lt;span class="line"&gt;&lt;span&gt;    position:relative;&lt;/span&gt;&lt;/span&gt;
+&lt;span class="line"&gt;&lt;span&gt;    height:0;&lt;/span&gt;&lt;/span&gt;
+&lt;span class="line"&gt;&lt;span&gt;}&lt;/span&gt;&lt;/span&gt;
+&lt;span class="line"&gt;&lt;span&gt;.video-responsive iframe{&lt;/span&gt;&lt;/span&gt;
+&lt;span class="line"&gt;&lt;span&gt;    left:0;&lt;/span&gt;&lt;/span&gt;
+&lt;span class="line"&gt;&lt;span&gt;    top:0;&lt;/span&gt;&lt;/span&gt;
+&lt;span class="line"&gt;&lt;span&gt;    height:100%;&lt;/span&gt;&lt;/span&gt;
+&lt;span class="line"&gt;&lt;span&gt;    width:100%;&lt;/span&gt;&lt;/span&gt;
+&lt;span class="line"&gt;&lt;span&gt;    position:absolute;&lt;/span&gt;&lt;/span&gt;
+&lt;span class="line"&gt;&lt;span&gt;}&lt;/span&gt;&lt;/span&gt;
+&lt;span class="line"&gt;&lt;span&gt;&amp;lt;/style&amp;gt;&lt;/span&gt;&lt;/span&gt;
+&lt;span class="line"&gt;&lt;span&gt;&lt;/span&gt;&lt;/span&gt;
+&lt;span class="line"&gt;&lt;span&gt;&amp;lt;div class="video-responsive"&amp;gt;&lt;/span&gt;&lt;/span&gt;
+&lt;span class="line"&gt;&lt;span&gt;    &amp;lt;iframe src="https://www.youtube.com/embed/XXXXX" &lt;/span&gt;&lt;/span&gt;
+&lt;span class="line"&gt;&lt;span&gt;        frameborder="0" &lt;/span&gt;&lt;/span&gt;
+&lt;span class="line"&gt;&lt;span&gt;        width="970" height="548"&amp;gt;&amp;lt;/iframe&amp;gt;&lt;/span&gt;&lt;/span&gt;
+&lt;span class="line"&gt;&lt;span&gt;&amp;lt;/div&amp;gt;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;
 </content>
   </entry>
   <entry>
     <title>PHP Debugging Utility using Monolog</title>
     <link href="https://randop.github.io/2018/12/19/php-debugging-utility-using-monolog/" />
-    <updated>2018-12-19T02:00:00Z</updated>
+    <updated>2018-12-19T02:00:00.000Z</updated>
     <id>https://randop.github.io/2018/12/19/php-debugging-utility-using-monolog/</id>
+    <summary>Have created a debug helper script which is very useful for tracing issues in PHP.</summary>
     <content type="html">&lt;p&gt;Have created a debug helper script which is very useful for tracing issues in PHP.&lt;/p&gt;
-&lt;h4&gt;Requirements:&lt;/h4&gt;
+&lt;h4 id="requirements"&gt;Requirements:&lt;/h4&gt;
 &lt;ul&gt;
 &lt;li&gt;Composer&lt;/li&gt;
 &lt;li&gt;Monolog&lt;/li&gt;
 &lt;li&gt;localheinz/json-printer&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h4&gt;Installation:&lt;/h4&gt;
-&lt;pre&gt;&lt;code&gt;composer require monolog/monolog localheinz/json-printer
-&lt;/code&gt;&lt;/pre&gt;
-&lt;h4&gt;Script&lt;/h4&gt;
-&lt;pre&gt;&lt;code class=&quot;language-php&quot;&gt;&amp;lt;?php
-use Monolog&#92;Logger;
-use Monolog&#92;ErrorHandler;
-use Monolog&#92;Formatter&#92;CustomLineFormatter;
-use Monolog&#92;Handler&#92;StreamHandler;
-use Monolog&#92;Processor&#92;IntrospectionProcessor;
-use Localheinz&#92;Json&#92;Printer&#92;Printer;
-//set this to desired log directory
-$logdir = &amp;quot;&amp;quot;;
-$traceprinter = new Printer();
-$traceformatter = new Monolog&#92;Formatter&#92;CustomLineFormatter(
-    null,
-    null,
-    true,
-    true
-);
-// create a log channel
-$monolog = new Logger(&#39;randolph&#39;);
-ErrorHandler::register($monolog);
-$monolog-&amp;gt;pushProcessor(new IntrospectionProcessor());
-$debugstream = new StreamHandler($logdir. &#39;/debug.log&#39;, Logger::DEBUG);
-$debugstream-&amp;gt;setFormatter($traceformatter);
-$monolog-&amp;gt;pushHandler($debugstream);
-// create a trace log channel
-$tracelog = new Logger(&#39;randolph&#39;);
-//$tracelog-&amp;gt;pushProcessor(new IntrospectionProcessor());
-$tracestream = new StreamHandler($logdir . &#39;/trace.log&#39;, Logger::DEBUG);
-$tracestream-&amp;gt;setFormatter($traceformatter);
-$tracelog-&amp;gt;pushHandler($tracestream);
-function dtrace($msg=&#39;&#39;) {
-    global $tracelog, $traceprinter;
-    $backtrace = debug_backtrace(DEBUG_BACKTRACE_IGNORE_ARGS, 1);
-    $context = [
-        &#39;debug_backtrace&#39; =&amp;gt; $backtrace[0]
-    ];
-    if ( is_string($msg) || is_integer($msg) || is_bool($msg) ) {
-        $tracelog-&amp;gt;debug($msg);
-    } elseif ( is_object($msg) || is_array($msg) ) {
-        $tracelog-&amp;gt;debug( $traceprinter-&amp;gt;pprint(json_encode($msg), &#39;  &#39;), $context );
-    } else {
-        $tracelog-&amp;gt;debug( var_export($msg, true) );
-    }
-    return true;
-}
-&lt;/code&gt;&lt;/pre&gt;
+&lt;h4 id="installation"&gt;Installation:&lt;/h4&gt;
+&lt;pre class="astro-code astro-code-themes github-light github-dark" style="--shiki-light:#24292e;--shiki-dark:#e1e4e8;--shiki-light-bg:#fff;--shiki-dark-bg:#24292e; overflow-x: auto; white-space: pre-wrap; word-wrap: break-word;" tabindex="0" data-language="plaintext"&gt;&lt;code&gt;&lt;span class="line"&gt;&lt;span&gt;composer require monolog/monolog localheinz/json-printer&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;
+&lt;h4 id="script"&gt;Script&lt;/h4&gt;
+&lt;pre class="astro-code astro-code-themes github-light github-dark" style="--shiki-light:#24292e;--shiki-dark:#e1e4e8;--shiki-light-bg:#fff;--shiki-dark-bg:#24292e; overflow-x: auto; white-space: pre-wrap; word-wrap: break-word;" tabindex="0" data-language="php"&gt;&lt;code&gt;&lt;span class="line"&gt;&lt;span style="--shiki-light:#D73A49;--shiki-dark:#F97583"&gt;&amp;lt;?&lt;/span&gt;&lt;span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"&gt;php&lt;/span&gt;&lt;/span&gt;
+&lt;span class="line"&gt;&lt;span style="--shiki-light:#D73A49;--shiki-dark:#F97583"&gt;use&lt;/span&gt;&lt;span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"&gt; Monolog\Logger&lt;/span&gt;&lt;span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"&gt;;&lt;/span&gt;&lt;/span&gt;
+&lt;span class="line"&gt;&lt;span style="--shiki-light:#D73A49;--shiki-dark:#F97583"&gt;use&lt;/span&gt;&lt;span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"&gt; Monolog\ErrorHandler&lt;/span&gt;&lt;span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"&gt;;&lt;/span&gt;&lt;/span&gt;
+&lt;span class="line"&gt;&lt;span style="--shiki-light:#D73A49;--shiki-dark:#F97583"&gt;use&lt;/span&gt;&lt;span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"&gt; Monolog\Formatter\CustomLineFormatter&lt;/span&gt;&lt;span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"&gt;;&lt;/span&gt;&lt;/span&gt;
+&lt;span class="line"&gt;&lt;span style="--shiki-light:#D73A49;--shiki-dark:#F97583"&gt;use&lt;/span&gt;&lt;span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"&gt; Monolog\Handler\StreamHandler&lt;/span&gt;&lt;span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"&gt;;&lt;/span&gt;&lt;/span&gt;
+&lt;span class="line"&gt;&lt;span style="--shiki-light:#D73A49;--shiki-dark:#F97583"&gt;use&lt;/span&gt;&lt;span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"&gt; Monolog\Processor\IntrospectionProcessor&lt;/span&gt;&lt;span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"&gt;;&lt;/span&gt;&lt;/span&gt;
+&lt;span class="line"&gt;&lt;span style="--shiki-light:#D73A49;--shiki-dark:#F97583"&gt;use&lt;/span&gt;&lt;span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"&gt; Localheinz\Json\Printer\Printer&lt;/span&gt;&lt;span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"&gt;;&lt;/span&gt;&lt;/span&gt;
+&lt;span class="line"&gt;&lt;span style="--shiki-light:#6A737D;--shiki-dark:#6A737D"&gt;//set this to desired log directory&lt;/span&gt;&lt;/span&gt;
+&lt;span class="line"&gt;&lt;span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"&gt;$logdir &lt;/span&gt;&lt;span style="--shiki-light:#D73A49;--shiki-dark:#F97583"&gt;=&lt;/span&gt;&lt;span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF"&gt; ""&lt;/span&gt;&lt;span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"&gt;;&lt;/span&gt;&lt;/span&gt;
+&lt;span class="line"&gt;&lt;span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"&gt;$traceprinter &lt;/span&gt;&lt;span style="--shiki-light:#D73A49;--shiki-dark:#F97583"&gt;=&lt;/span&gt;&lt;span style="--shiki-light:#D73A49;--shiki-dark:#F97583"&gt; new&lt;/span&gt;&lt;span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"&gt; Printer&lt;/span&gt;&lt;span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"&gt;();&lt;/span&gt;&lt;/span&gt;
+&lt;span class="line"&gt;&lt;span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"&gt;$traceformatter &lt;/span&gt;&lt;span style="--shiki-light:#D73A49;--shiki-dark:#F97583"&gt;=&lt;/span&gt;&lt;span style="--shiki-light:#D73A49;--shiki-dark:#F97583"&gt; new&lt;/span&gt;&lt;span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"&gt; Monolog\Formatter\CustomLineFormatter&lt;/span&gt;&lt;span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"&gt;(&lt;/span&gt;&lt;/span&gt;
+&lt;span class="line"&gt;&lt;span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"&gt;    null&lt;/span&gt;&lt;span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"&gt;,&lt;/span&gt;&lt;/span&gt;
+&lt;span class="line"&gt;&lt;span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"&gt;    null&lt;/span&gt;&lt;span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"&gt;,&lt;/span&gt;&lt;/span&gt;
+&lt;span class="line"&gt;&lt;span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"&gt;    true&lt;/span&gt;&lt;span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"&gt;,&lt;/span&gt;&lt;/span&gt;
+&lt;span class="line"&gt;&lt;span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"&gt;    true&lt;/span&gt;&lt;/span&gt;
+&lt;span class="line"&gt;&lt;span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"&gt;);&lt;/span&gt;&lt;/span&gt;
+&lt;span class="line"&gt;&lt;span style="--shiki-light:#6A737D;--shiki-dark:#6A737D"&gt;// create a log channel&lt;/span&gt;&lt;/span&gt;
+&lt;span class="line"&gt;&lt;span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"&gt;$monolog &lt;/span&gt;&lt;span style="--shiki-light:#D73A49;--shiki-dark:#F97583"&gt;=&lt;/span&gt;&lt;span style="--shiki-light:#D73A49;--shiki-dark:#F97583"&gt; new&lt;/span&gt;&lt;span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"&gt; Logger&lt;/span&gt;&lt;span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"&gt;(&lt;/span&gt;&lt;span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF"&gt;'randolph'&lt;/span&gt;&lt;span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"&gt;);&lt;/span&gt;&lt;/span&gt;
+&lt;span class="line"&gt;&lt;span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"&gt;ErrorHandler&lt;/span&gt;&lt;span style="--shiki-light:#D73A49;--shiki-dark:#F97583"&gt;::&lt;/span&gt;&lt;span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0"&gt;register&lt;/span&gt;&lt;span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"&gt;($monolog);&lt;/span&gt;&lt;/span&gt;
+&lt;span class="line"&gt;&lt;span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"&gt;$monolog&lt;/span&gt;&lt;span style="--shiki-light:#D73A49;--shiki-dark:#F97583"&gt;-&amp;gt;&lt;/span&gt;&lt;span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0"&gt;pushProcessor&lt;/span&gt;&lt;span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"&gt;(&lt;/span&gt;&lt;span style="--shiki-light:#D73A49;--shiki-dark:#F97583"&gt;new&lt;/span&gt;&lt;span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"&gt; IntrospectionProcessor&lt;/span&gt;&lt;span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"&gt;());&lt;/span&gt;&lt;/span&gt;
+&lt;span class="line"&gt;&lt;span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"&gt;$debugstream &lt;/span&gt;&lt;span style="--shiki-light:#D73A49;--shiki-dark:#F97583"&gt;=&lt;/span&gt;&lt;span style="--shiki-light:#D73A49;--shiki-dark:#F97583"&gt; new&lt;/span&gt;&lt;span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"&gt; StreamHandler&lt;/span&gt;&lt;span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"&gt;($logdir&lt;/span&gt;&lt;span style="--shiki-light:#D73A49;--shiki-dark:#F97583"&gt;.&lt;/span&gt;&lt;span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF"&gt; '/debug.log'&lt;/span&gt;&lt;span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"&gt;, &lt;/span&gt;&lt;span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"&gt;Logger&lt;/span&gt;&lt;span style="--shiki-light:#D73A49;--shiki-dark:#F97583"&gt;::&lt;/span&gt;&lt;span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"&gt;DEBUG&lt;/span&gt;&lt;span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"&gt;);&lt;/span&gt;&lt;/span&gt;
+&lt;span class="line"&gt;&lt;span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"&gt;$debugstream&lt;/span&gt;&lt;span style="--shiki-light:#D73A49;--shiki-dark:#F97583"&gt;-&amp;gt;&lt;/span&gt;&lt;span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0"&gt;setFormatter&lt;/span&gt;&lt;span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"&gt;($traceformatter);&lt;/span&gt;&lt;/span&gt;
+&lt;span class="line"&gt;&lt;span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"&gt;$monolog&lt;/span&gt;&lt;span style="--shiki-light:#D73A49;--shiki-dark:#F97583"&gt;-&amp;gt;&lt;/span&gt;&lt;span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0"&gt;pushHandler&lt;/span&gt;&lt;span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"&gt;($debugstream);&lt;/span&gt;&lt;/span&gt;
+&lt;span class="line"&gt;&lt;span style="--shiki-light:#6A737D;--shiki-dark:#6A737D"&gt;// create a trace log channel&lt;/span&gt;&lt;/span&gt;
+&lt;span class="line"&gt;&lt;span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"&gt;$tracelog &lt;/span&gt;&lt;span style="--shiki-light:#D73A49;--shiki-dark:#F97583"&gt;=&lt;/span&gt;&lt;span style="--shiki-light:#D73A49;--shiki-dark:#F97583"&gt; new&lt;/span&gt;&lt;span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"&gt; Logger&lt;/span&gt;&lt;span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"&gt;(&lt;/span&gt;&lt;span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF"&gt;'randolph'&lt;/span&gt;&lt;span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"&gt;);&lt;/span&gt;&lt;/span&gt;
+&lt;span class="line"&gt;&lt;span style="--shiki-light:#6A737D;--shiki-dark:#6A737D"&gt;//$tracelog-&amp;gt;pushProcessor(new IntrospectionProcessor());&lt;/span&gt;&lt;/span&gt;
+&lt;span class="line"&gt;&lt;span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"&gt;$tracestream &lt;/span&gt;&lt;span style="--shiki-light:#D73A49;--shiki-dark:#F97583"&gt;=&lt;/span&gt;&lt;span style="--shiki-light:#D73A49;--shiki-dark:#F97583"&gt; new&lt;/span&gt;&lt;span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"&gt; StreamHandler&lt;/span&gt;&lt;span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"&gt;($logdir &lt;/span&gt;&lt;span style="--shiki-light:#D73A49;--shiki-dark:#F97583"&gt;.&lt;/span&gt;&lt;span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF"&gt; '/trace.log'&lt;/span&gt;&lt;span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"&gt;, &lt;/span&gt;&lt;span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"&gt;Logger&lt;/span&gt;&lt;span style="--shiki-light:#D73A49;--shiki-dark:#F97583"&gt;::&lt;/span&gt;&lt;span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"&gt;DEBUG&lt;/span&gt;&lt;span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"&gt;);&lt;/span&gt;&lt;/span&gt;
+&lt;span class="line"&gt;&lt;span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"&gt;$tracestream&lt;/span&gt;&lt;span style="--shiki-light:#D73A49;--shiki-dark:#F97583"&gt;-&amp;gt;&lt;/span&gt;&lt;span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0"&gt;setFormatter&lt;/span&gt;&lt;span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"&gt;($traceformatter);&lt;/span&gt;&lt;/span&gt;
+&lt;span class="line"&gt;&lt;span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"&gt;$tracelog&lt;/span&gt;&lt;span style="--shiki-light:#D73A49;--shiki-dark:#F97583"&gt;-&amp;gt;&lt;/span&gt;&lt;span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0"&gt;pushHandler&lt;/span&gt;&lt;span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"&gt;($tracestream);&lt;/span&gt;&lt;/span&gt;
+&lt;span class="line"&gt;&lt;span style="--shiki-light:#D73A49;--shiki-dark:#F97583"&gt;function&lt;/span&gt;&lt;span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0"&gt; dtrace&lt;/span&gt;&lt;span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"&gt;($msg&lt;/span&gt;&lt;span style="--shiki-light:#D73A49;--shiki-dark:#F97583"&gt;=&lt;/span&gt;&lt;span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF"&gt;''&lt;/span&gt;&lt;span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"&gt;) {&lt;/span&gt;&lt;/span&gt;
+&lt;span class="line"&gt;&lt;span style="--shiki-light:#D73A49;--shiki-dark:#F97583"&gt;    global&lt;/span&gt;&lt;span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"&gt; $tracelog, $traceprinter;&lt;/span&gt;&lt;/span&gt;
+&lt;span class="line"&gt;&lt;span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"&gt;    $backtrace &lt;/span&gt;&lt;span style="--shiki-light:#D73A49;--shiki-dark:#F97583"&gt;=&lt;/span&gt;&lt;span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"&gt; debug_backtrace&lt;/span&gt;&lt;span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"&gt;(&lt;/span&gt;&lt;span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"&gt;DEBUG_BACKTRACE_IGNORE_ARGS&lt;/span&gt;&lt;span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"&gt;, &lt;/span&gt;&lt;span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"&gt;1&lt;/span&gt;&lt;span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"&gt;);&lt;/span&gt;&lt;/span&gt;
+&lt;span class="line"&gt;&lt;span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"&gt;    $context &lt;/span&gt;&lt;span style="--shiki-light:#D73A49;--shiki-dark:#F97583"&gt;=&lt;/span&gt;&lt;span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"&gt; [&lt;/span&gt;&lt;/span&gt;
+&lt;span class="line"&gt;&lt;span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF"&gt;        'debug_backtrace'&lt;/span&gt;&lt;span style="--shiki-light:#D73A49;--shiki-dark:#F97583"&gt; =&amp;gt;&lt;/span&gt;&lt;span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"&gt; $backtrace[&lt;/span&gt;&lt;span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"&gt;0&lt;/span&gt;&lt;span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"&gt;]&lt;/span&gt;&lt;/span&gt;
+&lt;span class="line"&gt;&lt;span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"&gt;    ];&lt;/span&gt;&lt;/span&gt;
+&lt;span class="line"&gt;&lt;span style="--shiki-light:#D73A49;--shiki-dark:#F97583"&gt;    if&lt;/span&gt;&lt;span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"&gt; ( &lt;/span&gt;&lt;span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"&gt;is_string&lt;/span&gt;&lt;span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"&gt;($msg) &lt;/span&gt;&lt;span style="--shiki-light:#D73A49;--shiki-dark:#F97583"&gt;||&lt;/span&gt;&lt;span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"&gt; is_integer&lt;/span&gt;&lt;span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"&gt;($msg) &lt;/span&gt;&lt;span style="--shiki-light:#D73A49;--shiki-dark:#F97583"&gt;||&lt;/span&gt;&lt;span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"&gt; is_bool&lt;/span&gt;&lt;span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"&gt;($msg) ) {&lt;/span&gt;&lt;/span&gt;
+&lt;span class="line"&gt;&lt;span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"&gt;        $tracelog&lt;/span&gt;&lt;span style="--shiki-light:#D73A49;--shiki-dark:#F97583"&gt;-&amp;gt;&lt;/span&gt;&lt;span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0"&gt;debug&lt;/span&gt;&lt;span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"&gt;($msg);&lt;/span&gt;&lt;/span&gt;
+&lt;span class="line"&gt;&lt;span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"&gt;    } &lt;/span&gt;&lt;span style="--shiki-light:#D73A49;--shiki-dark:#F97583"&gt;elseif&lt;/span&gt;&lt;span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"&gt; ( &lt;/span&gt;&lt;span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"&gt;is_object&lt;/span&gt;&lt;span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"&gt;($msg) &lt;/span&gt;&lt;span style="--shiki-light:#D73A49;--shiki-dark:#F97583"&gt;||&lt;/span&gt;&lt;span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"&gt; is_array&lt;/span&gt;&lt;span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"&gt;($msg) ) {&lt;/span&gt;&lt;/span&gt;
+&lt;span class="line"&gt;&lt;span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"&gt;        $tracelog&lt;/span&gt;&lt;span style="--shiki-light:#D73A49;--shiki-dark:#F97583"&gt;-&amp;gt;&lt;/span&gt;&lt;span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0"&gt;debug&lt;/span&gt;&lt;span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"&gt;( $traceprinter&lt;/span&gt;&lt;span style="--shiki-light:#D73A49;--shiki-dark:#F97583"&gt;-&amp;gt;&lt;/span&gt;&lt;span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0"&gt;pprint&lt;/span&gt;&lt;span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"&gt;(&lt;/span&gt;&lt;span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"&gt;json_encode&lt;/span&gt;&lt;span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"&gt;($msg), &lt;/span&gt;&lt;span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF"&gt;'  '&lt;/span&gt;&lt;span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"&gt;), $context );&lt;/span&gt;&lt;/span&gt;
+&lt;span class="line"&gt;&lt;span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"&gt;    } &lt;/span&gt;&lt;span style="--shiki-light:#D73A49;--shiki-dark:#F97583"&gt;else&lt;/span&gt;&lt;span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"&gt; {&lt;/span&gt;&lt;/span&gt;
+&lt;span class="line"&gt;&lt;span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"&gt;        $tracelog&lt;/span&gt;&lt;span style="--shiki-light:#D73A49;--shiki-dark:#F97583"&gt;-&amp;gt;&lt;/span&gt;&lt;span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0"&gt;debug&lt;/span&gt;&lt;span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"&gt;( &lt;/span&gt;&lt;span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"&gt;var_export&lt;/span&gt;&lt;span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"&gt;($msg, &lt;/span&gt;&lt;span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"&gt;true&lt;/span&gt;&lt;span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"&gt;) );&lt;/span&gt;&lt;/span&gt;
+&lt;span class="line"&gt;&lt;span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"&gt;    }&lt;/span&gt;&lt;/span&gt;
+&lt;span class="line"&gt;&lt;span style="--shiki-light:#D73A49;--shiki-dark:#F97583"&gt;    return&lt;/span&gt;&lt;span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"&gt; true&lt;/span&gt;&lt;span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"&gt;;&lt;/span&gt;&lt;/span&gt;
+&lt;span class="line"&gt;&lt;span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"&gt;}&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;
 </content>
   </entry>
   <entry>
     <title>Add SSL functionality without any changes on application code</title>
     <link href="https://randop.github.io/2018/10/22/add-ssl-functionality-without-any-changes-on-application-code/" />
-    <updated>2018-10-22T02:00:00Z</updated>
+    <updated>2018-10-22T02:00:00.000Z</updated>
     <id>https://randop.github.io/2018/10/22/add-ssl-functionality-without-any-changes-on-application-code/</id>
-    <content type="html">&lt;p&gt;The &lt;a href=&quot;https://www.stunnel.org/&quot;&gt;Stunnel&lt;/a&gt; program is designed to work as an SSL encryption wrapper between remote client and local (inetd-startable) or remote server. It can be used to add SSL functionality to commonly used inetd daemons like POP2, POP3, and IMAP servers without any changes in the program’s code.&lt;/p&gt;
-&lt;p&gt;What &lt;a href=&quot;https://www.stunnel.org/&quot;&gt;Stunnel&lt;/a&gt; basically does is that it turns any insecure TCP port into a secure encrypted port using OpenSSL package for cryptography. It’s somehow like a small secure VPN that runs on specific ports.&lt;/p&gt;
-&lt;p&gt;More information on setting up Stunnel can be found here &lt;a href=&quot;https://www.digitalocean.com/community/tutorials/how-to-set-up-an-ssl-tunnel-using-stunnel-on-ubuntu&quot;&gt;https://www.digitalocean.com/community/tutorials/how-to-set-up-an-ssl-tunnel-using-stunnel-on-ubuntu&lt;/a&gt;&lt;/p&gt;
+    <summary>The Stunnel program is designed to work as an SSL encryption wrapper between remote client and local (inetd-startable) or remote server. It can be used to add SSL functionality to commonly used inetd…</summary>
+    <content type="html">&lt;p&gt;The &lt;a href="https://www.stunnel.org/"&gt;Stunnel&lt;/a&gt; program is designed to work as an SSL encryption wrapper between remote client and local (inetd-startable) or remote server. It can be used to add SSL functionality to commonly used inetd daemons like POP2, POP3, and IMAP servers without any changes in the program’s code.&lt;/p&gt;
+&lt;p&gt;What &lt;a href="https://www.stunnel.org/"&gt;Stunnel&lt;/a&gt; basically does is that it turns any insecure TCP port into a secure encrypted port using OpenSSL package for cryptography. It’s somehow like a small secure VPN that runs on specific ports.&lt;/p&gt;
+&lt;p&gt;More information on setting up Stunnel can be found here &lt;a href="https://www.digitalocean.com/community/tutorials/how-to-set-up-an-ssl-tunnel-using-stunnel-on-ubuntu"&gt;https://www.digitalocean.com/community/tutorials/how-to-set-up-an-ssl-tunnel-using-stunnel-on-ubuntu&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;An example configuration for stunnel.conf&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;; Sample stunnel configuration file for Unix by Michal Trojnara 2002-2014
-; Some options used here may be inadequate for your particular configuration
-; This sample file does *not* represent stunnel.conf defaults
-; Please consult the manual for detailed description of available options
-
-; **************************************************************************
-; * Global options                                                         *
-; **************************************************************************
-
-; A copy of some devices and system files is needed within the chroot jail
-; Chroot conflicts with configuration file reload and many other features
-; Remember also to update the logrotate configuration.
-;chroot = /var/lib/stunnel4/
-; Chroot jail can be escaped if setuid option is not used
-;setuid = stunnel4
-;setgid = stunnel4
-
-; PID file is created inside the chroot jail (if enabled)
-pid = /var/run/stunnel4.pid
-
-; Debugging stuff (may be useful for troubleshooting)
-;debug = 7
-;output = /var/log/stunnel4/stunnel.log
-
-; **************************************************************************
-; * Service defaults may also be specified in individual service sections  *
-; **************************************************************************
-
-; Certificate/key is needed in server mode and optional in client mode
-cert = /etc/stunnel/stunnel.pem
-;key = /etc/stunnel/mail.pem
-
-[ot1]
-accept = 5061
-connect = 5062
-TIMEOUTclose = 0
-
-[ot2]
-accept = 444
-connect = 5062
-TIMEOUTclose = 0
-
-; vim:ft=dosini
-&lt;/code&gt;&lt;/pre&gt;
+&lt;pre class="astro-code astro-code-themes github-light github-dark" style="--shiki-light:#24292e;--shiki-dark:#e1e4e8;--shiki-light-bg:#fff;--shiki-dark-bg:#24292e; overflow-x: auto; white-space: pre-wrap; word-wrap: break-word;" tabindex="0" data-language="plaintext"&gt;&lt;code&gt;&lt;span class="line"&gt;&lt;span&gt;; Sample stunnel configuration file for Unix by Michal Trojnara 2002-2014&lt;/span&gt;&lt;/span&gt;
+&lt;span class="line"&gt;&lt;span&gt;; Some options used here may be inadequate for your particular configuration&lt;/span&gt;&lt;/span&gt;
+&lt;span class="line"&gt;&lt;span&gt;; This sample file does *not* represent stunnel.conf defaults&lt;/span&gt;&lt;/span&gt;
+&lt;span class="line"&gt;&lt;span&gt;; Please consult the manual for detailed description of available options&lt;/span&gt;&lt;/span&gt;
+&lt;span class="line"&gt;&lt;span&gt;&lt;/span&gt;&lt;/span&gt;
+&lt;span class="line"&gt;&lt;span&gt;; **************************************************************************&lt;/span&gt;&lt;/span&gt;
+&lt;span class="line"&gt;&lt;span&gt;; * Global options                                                         *&lt;/span&gt;&lt;/span&gt;
+&lt;span class="line"&gt;&lt;span&gt;; **************************************************************************&lt;/span&gt;&lt;/span&gt;
+&lt;span class="line"&gt;&lt;span&gt;&lt;/span&gt;&lt;/span&gt;
+&lt;span class="line"&gt;&lt;span&gt;; A copy of some devices and system files is needed within the chroot jail&lt;/span&gt;&lt;/span&gt;
+&lt;span class="line"&gt;&lt;span&gt;; Chroot conflicts with configuration file reload and many other features&lt;/span&gt;&lt;/span&gt;
+&lt;span class="line"&gt;&lt;span&gt;; Remember also to update the logrotate configuration.&lt;/span&gt;&lt;/span&gt;
+&lt;span class="line"&gt;&lt;span&gt;;chroot = /var/lib/stunnel4/&lt;/span&gt;&lt;/span&gt;
+&lt;span class="line"&gt;&lt;span&gt;; Chroot jail can be escaped if setuid option is not used&lt;/span&gt;&lt;/span&gt;
+&lt;span class="line"&gt;&lt;span&gt;;setuid = stunnel4&lt;/span&gt;&lt;/span&gt;
+&lt;span class="line"&gt;&lt;span&gt;;setgid = stunnel4&lt;/span&gt;&lt;/span&gt;
+&lt;span class="line"&gt;&lt;span&gt;&lt;/span&gt;&lt;/span&gt;
+&lt;span class="line"&gt;&lt;span&gt;; PID file is created inside the chroot jail (if enabled)&lt;/span&gt;&lt;/span&gt;
+&lt;span class="line"&gt;&lt;span&gt;pid = /var/run/stunnel4.pid&lt;/span&gt;&lt;/span&gt;
+&lt;span class="line"&gt;&lt;span&gt;&lt;/span&gt;&lt;/span&gt;
+&lt;span class="line"&gt;&lt;span&gt;; Debugging stuff (may be useful for troubleshooting)&lt;/span&gt;&lt;/span&gt;
+&lt;span class="line"&gt;&lt;span&gt;;debug = 7&lt;/span&gt;&lt;/span&gt;
+&lt;span class="line"&gt;&lt;span&gt;;output = /var/log/stunnel4/stunnel.log&lt;/span&gt;&lt;/span&gt;
+&lt;span class="line"&gt;&lt;span&gt;&lt;/span&gt;&lt;/span&gt;
+&lt;span class="line"&gt;&lt;span&gt;; **************************************************************************&lt;/span&gt;&lt;/span&gt;
+&lt;span class="line"&gt;&lt;span&gt;; * Service defaults may also be specified in individual service sections  *&lt;/span&gt;&lt;/span&gt;
+&lt;span class="line"&gt;&lt;span&gt;; **************************************************************************&lt;/span&gt;&lt;/span&gt;
+&lt;span class="line"&gt;&lt;span&gt;&lt;/span&gt;&lt;/span&gt;
+&lt;span class="line"&gt;&lt;span&gt;; Certificate/key is needed in server mode and optional in client mode&lt;/span&gt;&lt;/span&gt;
+&lt;span class="line"&gt;&lt;span&gt;cert = /etc/stunnel/stunnel.pem&lt;/span&gt;&lt;/span&gt;
+&lt;span class="line"&gt;&lt;span&gt;;key = /etc/stunnel/mail.pem&lt;/span&gt;&lt;/span&gt;
+&lt;span class="line"&gt;&lt;span&gt;&lt;/span&gt;&lt;/span&gt;
+&lt;span class="line"&gt;&lt;span&gt;[ot1]&lt;/span&gt;&lt;/span&gt;
+&lt;span class="line"&gt;&lt;span&gt;accept = 5061&lt;/span&gt;&lt;/span&gt;
+&lt;span class="line"&gt;&lt;span&gt;connect = 5062&lt;/span&gt;&lt;/span&gt;
+&lt;span class="line"&gt;&lt;span&gt;TIMEOUTclose = 0&lt;/span&gt;&lt;/span&gt;
+&lt;span class="line"&gt;&lt;span&gt;&lt;/span&gt;&lt;/span&gt;
+&lt;span class="line"&gt;&lt;span&gt;[ot2]&lt;/span&gt;&lt;/span&gt;
+&lt;span class="line"&gt;&lt;span&gt;accept = 444&lt;/span&gt;&lt;/span&gt;
+&lt;span class="line"&gt;&lt;span&gt;connect = 5062&lt;/span&gt;&lt;/span&gt;
+&lt;span class="line"&gt;&lt;span&gt;TIMEOUTclose = 0&lt;/span&gt;&lt;/span&gt;
+&lt;span class="line"&gt;&lt;span&gt;&lt;/span&gt;&lt;/span&gt;
+&lt;span class="line"&gt;&lt;span&gt;; vim:ft=dosini&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;
 </content>
   </entry>
   <entry>
     <title>Useful array map</title>
     <link href="https://randop.github.io/2018/09/13/useful-array-map/" />
-    <updated>2018-09-13T02:00:00Z</updated>
+    <updated>2018-09-13T02:00:00.000Z</updated>
     <id>https://randop.github.io/2018/09/13/useful-array-map/</id>
+    <summary>Here is an example of array map function to produce a string by appending each content of a flat array.</summary>
     <content type="html">&lt;p&gt;Here is an example of array_map function to produce a string by appending each content of a flat array.&lt;/p&gt;
-&lt;pre&gt;&lt;code class=&quot;language-php&quot;&gt;&amp;lt;?php
-$the_ids = [1,2,3,4];
-echo implode(&#39; OR &#39;, array_map( function($id){ return &#39;id=&#39; . $id; }, $the_ids ) );
-&lt;/code&gt;&lt;/pre&gt;
+&lt;pre class="astro-code astro-code-themes github-light github-dark" style="--shiki-light:#24292e;--shiki-dark:#e1e4e8;--shiki-light-bg:#fff;--shiki-dark-bg:#24292e; overflow-x: auto; white-space: pre-wrap; word-wrap: break-word;" tabindex="0" data-language="php"&gt;&lt;code&gt;&lt;span class="line"&gt;&lt;span style="--shiki-light:#D73A49;--shiki-dark:#F97583"&gt;&amp;lt;?&lt;/span&gt;&lt;span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"&gt;php&lt;/span&gt;&lt;/span&gt;
+&lt;span class="line"&gt;&lt;span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"&gt;$the_ids &lt;/span&gt;&lt;span style="--shiki-light:#D73A49;--shiki-dark:#F97583"&gt;=&lt;/span&gt;&lt;span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"&gt; [&lt;/span&gt;&lt;span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"&gt;1&lt;/span&gt;&lt;span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"&gt;,&lt;/span&gt;&lt;span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"&gt;2&lt;/span&gt;&lt;span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"&gt;,&lt;/span&gt;&lt;span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"&gt;3&lt;/span&gt;&lt;span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"&gt;,&lt;/span&gt;&lt;span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"&gt;4&lt;/span&gt;&lt;span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"&gt;];&lt;/span&gt;&lt;/span&gt;
+&lt;span class="line"&gt;&lt;span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"&gt;echo&lt;/span&gt;&lt;span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"&gt; implode&lt;/span&gt;&lt;span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"&gt;(&lt;/span&gt;&lt;span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF"&gt;' OR '&lt;/span&gt;&lt;span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"&gt;, &lt;/span&gt;&lt;span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"&gt;array_map&lt;/span&gt;&lt;span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"&gt;( &lt;/span&gt;&lt;span style="--shiki-light:#D73A49;--shiki-dark:#F97583"&gt;function&lt;/span&gt;&lt;span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"&gt;($id){ &lt;/span&gt;&lt;span style="--shiki-light:#D73A49;--shiki-dark:#F97583"&gt;return&lt;/span&gt;&lt;span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF"&gt; 'id='&lt;/span&gt;&lt;span style="--shiki-light:#D73A49;--shiki-dark:#F97583"&gt; .&lt;/span&gt;&lt;span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"&gt; $id; }, $the_ids ) );&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;
 &lt;p&gt;Produces the following output:
 id=1 OR id=2 OR id=3 OR id=4&lt;/p&gt;
 &lt;p&gt;This can be useful when trying to pass a where condition on a sql.&lt;/p&gt;
@@ -379,66 +380,66 @@ id=1 OR id=2 OR id=3 OR id=4&lt;/p&gt;
   <entry>
     <title>Find function declaration in PHP</title>
     <link href="https://randop.github.io/2018/08/31/find-function-declaration-in-php/" />
-    <updated>2018-08-31T02:00:00Z</updated>
+    <updated>2018-08-31T02:00:00.000Z</updated>
     <id>https://randop.github.io/2018/08/31/find-function-declaration-in-php/</id>
+    <summary>This is a simple way to find where the function is defined on your script</summary>
     <content type="html">&lt;p&gt;This is a simple way to find where the function is defined on your script&lt;/p&gt;
-&lt;pre&gt;&lt;code class=&quot;language-php&quot;&gt;&amp;lt;?php
-$reflFunc = new ReflectionFunction(&#39;function_name&#39;);
-print $reflFunc-&amp;gt;getFileName() . &#39;:&#39; . $reflFunc-&amp;gt;getStartLine();
-&lt;/code&gt;&lt;/pre&gt;
+&lt;pre class="astro-code astro-code-themes github-light github-dark" style="--shiki-light:#24292e;--shiki-dark:#e1e4e8;--shiki-light-bg:#fff;--shiki-dark-bg:#24292e; overflow-x: auto; white-space: pre-wrap; word-wrap: break-word;" tabindex="0" data-language="php"&gt;&lt;code&gt;&lt;span class="line"&gt;&lt;span style="--shiki-light:#D73A49;--shiki-dark:#F97583"&gt;&amp;lt;?&lt;/span&gt;&lt;span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"&gt;php&lt;/span&gt;&lt;/span&gt;
+&lt;span class="line"&gt;&lt;span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"&gt;$reflFunc &lt;/span&gt;&lt;span style="--shiki-light:#D73A49;--shiki-dark:#F97583"&gt;=&lt;/span&gt;&lt;span style="--shiki-light:#D73A49;--shiki-dark:#F97583"&gt; new&lt;/span&gt;&lt;span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"&gt; ReflectionFunction&lt;/span&gt;&lt;span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"&gt;(&lt;/span&gt;&lt;span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF"&gt;'function_name'&lt;/span&gt;&lt;span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"&gt;);&lt;/span&gt;&lt;/span&gt;
+&lt;span class="line"&gt;&lt;span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"&gt;print&lt;/span&gt;&lt;span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"&gt; $reflFunc&lt;/span&gt;&lt;span style="--shiki-light:#D73A49;--shiki-dark:#F97583"&gt;-&amp;gt;&lt;/span&gt;&lt;span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0"&gt;getFileName&lt;/span&gt;&lt;span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"&gt;() &lt;/span&gt;&lt;span style="--shiki-light:#D73A49;--shiki-dark:#F97583"&gt;.&lt;/span&gt;&lt;span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF"&gt; ':'&lt;/span&gt;&lt;span style="--shiki-light:#D73A49;--shiki-dark:#F97583"&gt; .&lt;/span&gt;&lt;span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"&gt; $reflFunc&lt;/span&gt;&lt;span style="--shiki-light:#D73A49;--shiki-dark:#F97583"&gt;-&amp;gt;&lt;/span&gt;&lt;span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0"&gt;getStartLine&lt;/span&gt;&lt;span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"&gt;();&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;
 </content>
   </entry>
   <entry>
     <title>PHP Console Template</title>
     <link href="https://randop.github.io/2018/05/24/php-console-template/" />
-    <updated>2018-05-24T02:00:00Z</updated>
+    <updated>2018-05-24T02:00:00.000Z</updated>
     <id>https://randop.github.io/2018/05/24/php-console-template/</id>
+    <summary>A template to use when making a script that runs in command-line.</summary>
     <content type="html">&lt;p&gt;A template to use when making a script that runs in command-line.&lt;/p&gt;
-&lt;pre&gt;&lt;code class=&quot;language-php&quot;&gt;&amp;lt;?php
-ini_set(&#39;memory_limit&#39;, &#39;256M&#39;);
-function stdoutlog($msg)
-{
-    fwrite(STDOUT, date(&#39;Y-m-d G:i:s&#39;) . &#39; &#39;);
-    fwrite(STDOUT, $msg);
-    fwrite(STDOUT, PHP_EOL);
-}
-function log_error( $num, $str, $file, $line, $context = null )
-{
-    log_exception( new ErrorException( $str, 0, $num, $file, $line ) );
-}
-function log_exception( Exception $e )
-{
-    $err = &amp;quot;Type: &amp;quot; . get_class( $e ) . &amp;quot;; Message: {$e-&amp;gt;getMessage()}; File: {$e-&amp;gt;getFile()}; Line: {$e-&amp;gt;getLine()};&amp;quot;;
-    stdoutlog($err);
-}
-function check_for_fatal()
-{
-    $error = error_get_last();
-    if ( $error[&amp;quot;type&amp;quot;] == E_ERROR ) {
-        log_error( $error[&amp;quot;type&amp;quot;], $error[&amp;quot;message&amp;quot;], $error[&amp;quot;file&amp;quot;], $error[&amp;quot;line&amp;quot;] );
-    }
-}
-register_shutdown_function( &amp;quot;check_for_fatal&amp;quot; );
-set_error_handler( &amp;quot;log_error&amp;quot; );
-set_exception_handler( &amp;quot;log_exception&amp;quot; );
-error_reporting(E_ALL &amp;amp; ~(E_STRICT|E_NOTICE|E_DEPRECATED|E_USER_DEPRECATED));
-ini_set(&#39;error_reporting&#39;, E_ALL &amp;amp; ~(E_STRICT|E_NOTICE|E_DEPRECATED|E_USER_DEPRECATED));
-chdir( realpath( __DIR__) );
-&lt;/code&gt;&lt;/pre&gt;
+&lt;pre class="astro-code astro-code-themes github-light github-dark" style="--shiki-light:#24292e;--shiki-dark:#e1e4e8;--shiki-light-bg:#fff;--shiki-dark-bg:#24292e; overflow-x: auto; white-space: pre-wrap; word-wrap: break-word;" tabindex="0" data-language="php"&gt;&lt;code&gt;&lt;span class="line"&gt;&lt;span style="--shiki-light:#D73A49;--shiki-dark:#F97583"&gt;&amp;lt;?&lt;/span&gt;&lt;span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"&gt;php&lt;/span&gt;&lt;/span&gt;
+&lt;span class="line"&gt;&lt;span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"&gt;ini_set&lt;/span&gt;&lt;span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"&gt;(&lt;/span&gt;&lt;span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF"&gt;'memory_limit'&lt;/span&gt;&lt;span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"&gt;, &lt;/span&gt;&lt;span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF"&gt;'256M'&lt;/span&gt;&lt;span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"&gt;);&lt;/span&gt;&lt;/span&gt;
+&lt;span class="line"&gt;&lt;span style="--shiki-light:#D73A49;--shiki-dark:#F97583"&gt;function&lt;/span&gt;&lt;span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0"&gt; stdoutlog&lt;/span&gt;&lt;span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"&gt;($msg)&lt;/span&gt;&lt;/span&gt;
+&lt;span class="line"&gt;&lt;span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"&gt;{&lt;/span&gt;&lt;/span&gt;
+&lt;span class="line"&gt;&lt;span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"&gt;    fwrite&lt;/span&gt;&lt;span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"&gt;(&lt;/span&gt;&lt;span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"&gt;STDOUT&lt;/span&gt;&lt;span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"&gt;, &lt;/span&gt;&lt;span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"&gt;date&lt;/span&gt;&lt;span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"&gt;(&lt;/span&gt;&lt;span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF"&gt;'Y-m-d G:i:s'&lt;/span&gt;&lt;span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"&gt;) &lt;/span&gt;&lt;span style="--shiki-light:#D73A49;--shiki-dark:#F97583"&gt;.&lt;/span&gt;&lt;span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF"&gt; ' '&lt;/span&gt;&lt;span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"&gt;);&lt;/span&gt;&lt;/span&gt;
+&lt;span class="line"&gt;&lt;span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"&gt;    fwrite&lt;/span&gt;&lt;span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"&gt;(&lt;/span&gt;&lt;span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"&gt;STDOUT&lt;/span&gt;&lt;span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"&gt;, $msg);&lt;/span&gt;&lt;/span&gt;
+&lt;span class="line"&gt;&lt;span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"&gt;    fwrite&lt;/span&gt;&lt;span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"&gt;(&lt;/span&gt;&lt;span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"&gt;STDOUT&lt;/span&gt;&lt;span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"&gt;, &lt;/span&gt;&lt;span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"&gt;PHP_EOL&lt;/span&gt;&lt;span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"&gt;);&lt;/span&gt;&lt;/span&gt;
+&lt;span class="line"&gt;&lt;span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"&gt;}&lt;/span&gt;&lt;/span&gt;
+&lt;span class="line"&gt;&lt;span style="--shiki-light:#D73A49;--shiki-dark:#F97583"&gt;function&lt;/span&gt;&lt;span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0"&gt; log_error&lt;/span&gt;&lt;span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"&gt;( $num, $str, $file, $line, $context &lt;/span&gt;&lt;span style="--shiki-light:#D73A49;--shiki-dark:#F97583"&gt;=&lt;/span&gt;&lt;span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"&gt; null&lt;/span&gt;&lt;span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"&gt; )&lt;/span&gt;&lt;/span&gt;
+&lt;span class="line"&gt;&lt;span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"&gt;{&lt;/span&gt;&lt;/span&gt;
+&lt;span class="line"&gt;&lt;span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0"&gt;    log_exception&lt;/span&gt;&lt;span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"&gt;( &lt;/span&gt;&lt;span style="--shiki-light:#D73A49;--shiki-dark:#F97583"&gt;new&lt;/span&gt;&lt;span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"&gt; ErrorException&lt;/span&gt;&lt;span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"&gt;( $str, &lt;/span&gt;&lt;span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"&gt;0&lt;/span&gt;&lt;span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"&gt;, $num, $file, $line ) );&lt;/span&gt;&lt;/span&gt;
+&lt;span class="line"&gt;&lt;span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"&gt;}&lt;/span&gt;&lt;/span&gt;
+&lt;span class="line"&gt;&lt;span style="--shiki-light:#D73A49;--shiki-dark:#F97583"&gt;function&lt;/span&gt;&lt;span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0"&gt; log_exception&lt;/span&gt;&lt;span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"&gt;( &lt;/span&gt;&lt;span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"&gt;Exception&lt;/span&gt;&lt;span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"&gt; $e )&lt;/span&gt;&lt;/span&gt;
+&lt;span class="line"&gt;&lt;span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"&gt;{&lt;/span&gt;&lt;/span&gt;
+&lt;span class="line"&gt;&lt;span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"&gt;    $err &lt;/span&gt;&lt;span style="--shiki-light:#D73A49;--shiki-dark:#F97583"&gt;=&lt;/span&gt;&lt;span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF"&gt; "Type: "&lt;/span&gt;&lt;span style="--shiki-light:#D73A49;--shiki-dark:#F97583"&gt; .&lt;/span&gt;&lt;span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"&gt; get_class&lt;/span&gt;&lt;span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"&gt;( $e ) &lt;/span&gt;&lt;span style="--shiki-light:#D73A49;--shiki-dark:#F97583"&gt;.&lt;/span&gt;&lt;span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF"&gt; "; Message: {&lt;/span&gt;&lt;span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"&gt;$e&lt;/span&gt;&lt;span style="--shiki-light:#D73A49;--shiki-dark:#F97583"&gt;-&amp;gt;&lt;/span&gt;&lt;span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0"&gt;getMessage&lt;/span&gt;&lt;span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF"&gt;()}; File: {&lt;/span&gt;&lt;span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"&gt;$e&lt;/span&gt;&lt;span style="--shiki-light:#D73A49;--shiki-dark:#F97583"&gt;-&amp;gt;&lt;/span&gt;&lt;span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0"&gt;getFile&lt;/span&gt;&lt;span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF"&gt;()}; Line: {&lt;/span&gt;&lt;span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"&gt;$e&lt;/span&gt;&lt;span style="--shiki-light:#D73A49;--shiki-dark:#F97583"&gt;-&amp;gt;&lt;/span&gt;&lt;span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0"&gt;getLine&lt;/span&gt;&lt;span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF"&gt;()};"&lt;/span&gt;&lt;span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"&gt;;&lt;/span&gt;&lt;/span&gt;
+&lt;span class="line"&gt;&lt;span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0"&gt;    stdoutlog&lt;/span&gt;&lt;span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"&gt;($err);&lt;/span&gt;&lt;/span&gt;
+&lt;span class="line"&gt;&lt;span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"&gt;}&lt;/span&gt;&lt;/span&gt;
+&lt;span class="line"&gt;&lt;span style="--shiki-light:#D73A49;--shiki-dark:#F97583"&gt;function&lt;/span&gt;&lt;span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0"&gt; check_for_fatal&lt;/span&gt;&lt;span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"&gt;()&lt;/span&gt;&lt;/span&gt;
+&lt;span class="line"&gt;&lt;span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"&gt;{&lt;/span&gt;&lt;/span&gt;
+&lt;span class="line"&gt;&lt;span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"&gt;    $error &lt;/span&gt;&lt;span style="--shiki-light:#D73A49;--shiki-dark:#F97583"&gt;=&lt;/span&gt;&lt;span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"&gt; error_get_last&lt;/span&gt;&lt;span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"&gt;();&lt;/span&gt;&lt;/span&gt;
+&lt;span class="line"&gt;&lt;span style="--shiki-light:#D73A49;--shiki-dark:#F97583"&gt;    if&lt;/span&gt;&lt;span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"&gt; ( $error[&lt;/span&gt;&lt;span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF"&gt;"type"&lt;/span&gt;&lt;span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"&gt;] &lt;/span&gt;&lt;span style="--shiki-light:#D73A49;--shiki-dark:#F97583"&gt;==&lt;/span&gt;&lt;span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"&gt; E_ERROR&lt;/span&gt;&lt;span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"&gt; ) {&lt;/span&gt;&lt;/span&gt;
+&lt;span class="line"&gt;&lt;span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0"&gt;        log_error&lt;/span&gt;&lt;span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"&gt;( $error[&lt;/span&gt;&lt;span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF"&gt;"type"&lt;/span&gt;&lt;span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"&gt;], $error[&lt;/span&gt;&lt;span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF"&gt;"message"&lt;/span&gt;&lt;span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"&gt;], $error[&lt;/span&gt;&lt;span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF"&gt;"file"&lt;/span&gt;&lt;span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"&gt;], $error[&lt;/span&gt;&lt;span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF"&gt;"line"&lt;/span&gt;&lt;span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"&gt;] );&lt;/span&gt;&lt;/span&gt;
+&lt;span class="line"&gt;&lt;span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"&gt;    }&lt;/span&gt;&lt;/span&gt;
+&lt;span class="line"&gt;&lt;span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"&gt;}&lt;/span&gt;&lt;/span&gt;
+&lt;span class="line"&gt;&lt;span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"&gt;register_shutdown_function&lt;/span&gt;&lt;span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"&gt;( &lt;/span&gt;&lt;span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF"&gt;"check_for_fatal"&lt;/span&gt;&lt;span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"&gt; );&lt;/span&gt;&lt;/span&gt;
+&lt;span class="line"&gt;&lt;span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"&gt;set_error_handler&lt;/span&gt;&lt;span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"&gt;( &lt;/span&gt;&lt;span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF"&gt;"log_error"&lt;/span&gt;&lt;span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"&gt; );&lt;/span&gt;&lt;/span&gt;
+&lt;span class="line"&gt;&lt;span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"&gt;set_exception_handler&lt;/span&gt;&lt;span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"&gt;( &lt;/span&gt;&lt;span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF"&gt;"log_exception"&lt;/span&gt;&lt;span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"&gt; );&lt;/span&gt;&lt;/span&gt;
+&lt;span class="line"&gt;&lt;span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"&gt;error_reporting&lt;/span&gt;&lt;span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"&gt;(&lt;/span&gt;&lt;span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"&gt;E_ALL&lt;/span&gt;&lt;span style="--shiki-light:#D73A49;--shiki-dark:#F97583"&gt; &amp;amp;&lt;/span&gt;&lt;span style="--shiki-light:#D73A49;--shiki-dark:#F97583"&gt; ~&lt;/span&gt;&lt;span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"&gt;(&lt;/span&gt;&lt;span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"&gt;E_STRICT&lt;/span&gt;&lt;span style="--shiki-light:#D73A49;--shiki-dark:#F97583"&gt;|&lt;/span&gt;&lt;span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"&gt;E_NOTICE&lt;/span&gt;&lt;span style="--shiki-light:#D73A49;--shiki-dark:#F97583"&gt;|&lt;/span&gt;&lt;span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"&gt;E_DEPRECATED&lt;/span&gt;&lt;span style="--shiki-light:#D73A49;--shiki-dark:#F97583"&gt;|&lt;/span&gt;&lt;span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"&gt;E_USER_DEPRECATED&lt;/span&gt;&lt;span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"&gt;));&lt;/span&gt;&lt;/span&gt;
+&lt;span class="line"&gt;&lt;span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"&gt;ini_set&lt;/span&gt;&lt;span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"&gt;(&lt;/span&gt;&lt;span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF"&gt;'error_reporting'&lt;/span&gt;&lt;span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"&gt;, &lt;/span&gt;&lt;span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"&gt;E_ALL&lt;/span&gt;&lt;span style="--shiki-light:#D73A49;--shiki-dark:#F97583"&gt; &amp;amp;&lt;/span&gt;&lt;span style="--shiki-light:#D73A49;--shiki-dark:#F97583"&gt; ~&lt;/span&gt;&lt;span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"&gt;(&lt;/span&gt;&lt;span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"&gt;E_STRICT&lt;/span&gt;&lt;span style="--shiki-light:#D73A49;--shiki-dark:#F97583"&gt;|&lt;/span&gt;&lt;span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"&gt;E_NOTICE&lt;/span&gt;&lt;span style="--shiki-light:#D73A49;--shiki-dark:#F97583"&gt;|&lt;/span&gt;&lt;span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"&gt;E_DEPRECATED&lt;/span&gt;&lt;span style="--shiki-light:#D73A49;--shiki-dark:#F97583"&gt;|&lt;/span&gt;&lt;span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"&gt;E_USER_DEPRECATED&lt;/span&gt;&lt;span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"&gt;));&lt;/span&gt;&lt;/span&gt;
+&lt;span class="line"&gt;&lt;span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"&gt;chdir&lt;/span&gt;&lt;span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"&gt;( &lt;/span&gt;&lt;span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"&gt;realpath&lt;/span&gt;&lt;span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"&gt;( &lt;/span&gt;&lt;span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"&gt;__DIR__&lt;/span&gt;&lt;span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"&gt;) );&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;
 </content>
   </entry>
   <entry>
     <title>Quick PHP Debugging</title>
     <link href="https://randop.github.io/2018/01/18/quick-php-debugging/" />
-    <updated>2018-01-18T02:00:00Z</updated>
+    <updated>2018-01-18T02:00:00.000Z</updated>
     <id>https://randop.github.io/2018/01/18/quick-php-debugging/</id>
+    <summary>Put this on top of your script and easily see the errors and warnings.</summary>
     <content type="html">&lt;p&gt;Put this on top of your script and easily see the errors and warnings.&lt;/p&gt;
-&lt;pre&gt;&lt;code class=&quot;language-php&quot;&gt;&amp;lt;?php
-error_reporting(E_ALL ^ E_DEPRECATED);
-ini_set(&#39;error_reporting&#39;, E_ALL ^ E_DEPRECATED);
-ini_set(&#39;display_startup_errors&#39;, 1);
-ini_set(&#39;display_errors&#39;, 1);
-&lt;/code&gt;&lt;/pre&gt;
+&lt;pre class="astro-code astro-code-themes github-light github-dark" style="--shiki-light:#24292e;--shiki-dark:#e1e4e8;--shiki-light-bg:#fff;--shiki-dark-bg:#24292e; overflow-x: auto; white-space: pre-wrap; word-wrap: break-word;" tabindex="0" data-language="php"&gt;&lt;code&gt;&lt;span class="line"&gt;&lt;span style="--shiki-light:#D73A49;--shiki-dark:#F97583"&gt;&amp;lt;?&lt;/span&gt;&lt;span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"&gt;php&lt;/span&gt;&lt;/span&gt;
+&lt;span class="line"&gt;&lt;span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"&gt;error_reporting&lt;/span&gt;&lt;span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"&gt;(&lt;/span&gt;&lt;span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"&gt;E_ALL&lt;/span&gt;&lt;span style="--shiki-light:#D73A49;--shiki-dark:#F97583"&gt; ^&lt;/span&gt;&lt;span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"&gt; E_DEPRECATED&lt;/span&gt;&lt;span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"&gt;);&lt;/span&gt;&lt;/span&gt;
+&lt;span class="line"&gt;&lt;span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"&gt;ini_set&lt;/span&gt;&lt;span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"&gt;(&lt;/span&gt;&lt;span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF"&gt;'error_reporting'&lt;/span&gt;&lt;span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"&gt;, &lt;/span&gt;&lt;span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"&gt;E_ALL&lt;/span&gt;&lt;span style="--shiki-light:#D73A49;--shiki-dark:#F97583"&gt; ^&lt;/span&gt;&lt;span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"&gt; E_DEPRECATED&lt;/span&gt;&lt;span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"&gt;);&lt;/span&gt;&lt;/span&gt;
+&lt;span class="line"&gt;&lt;span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"&gt;ini_set&lt;/span&gt;&lt;span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"&gt;(&lt;/span&gt;&lt;span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF"&gt;'display_startup_errors'&lt;/span&gt;&lt;span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"&gt;, &lt;/span&gt;&lt;span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"&gt;1&lt;/span&gt;&lt;span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"&gt;);&lt;/span&gt;&lt;/span&gt;
+&lt;span class="line"&gt;&lt;span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"&gt;ini_set&lt;/span&gt;&lt;span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"&gt;(&lt;/span&gt;&lt;span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF"&gt;'display_errors'&lt;/span&gt;&lt;span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"&gt;, &lt;/span&gt;&lt;span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"&gt;1&lt;/span&gt;&lt;span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"&gt;);&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;
 </content>
   </entry>
 </feed>
